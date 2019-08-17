@@ -1,4 +1,3 @@
-import sys
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.pdfpage import PDFPage
 from pdfminer.converter import XMLConverter, HTMLConverter, TextConverter
@@ -9,8 +8,8 @@ import pathlib
 
 class PdfParser:
 
-    def pdfparser(self):
-        data = pathlib.Path(r'C:\Users\ROSSA\PycharmProjects\pickaxe\data', 'test.pdf')
+    def parse_pdf(self):
+        data = pathlib.Path(r'C:\Users\ROSSA\PycharmProjects\pickaxe\test', 'test.pdf')
         fp = open(data, 'rb')
         rsrcmgr = PDFResourceManager()
         retstr = io.StringIO()
@@ -25,6 +24,12 @@ class PdfParser:
             interpreter.process_page(page)
             data = retstr.getvalue()
 
-        print(data)
-
         return data
+
+    def clean_pdf(self, text):
+        pass
+
+    def split_text(self, text):
+        split_text = text.split(".")
+        return split_text
+
