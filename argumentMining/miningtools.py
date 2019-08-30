@@ -5,7 +5,7 @@ class MiningTools:
 
     def argument_word_match(self, sentences):
 
-        argumentative_words = ['argue', 'conclude', 'therefore']
+        argumentative_words = ['argue', 'conclude', 'therefore', 'in conclusion']
         matches = []
         for sentence in sentences:
             for arg in argumentative_words:
