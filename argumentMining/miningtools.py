@@ -1,5 +1,7 @@
 from fuzzywuzzy import fuzz
-
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.feature_extraction.text import CountVectorizer
+import pandas as pd
 
 class MiningTools:
 
@@ -31,11 +33,26 @@ class MiningTools:
         matches = []
         for sentence in sentences:
             for arg in argumentative_words:
-                if arg in sentence:
+                if arg in sentence and sentence not in matches:
                     matches.append(sentence)
+        print(matches.__len__())
+        print(sentences.__len__())
+
         print(matches)
+
+    def calculate_cosine_similarity(self, topic_models, arguments, *args, **kwargs):
+
+        #todo integrate args and topics
+        documents = arguments
+
+        count_vectorizer = CountVectorizer(stop_words='english')
+        count_vectorizer = CountVectorizer()
+        sparse_matrix = count_vectorizer.fit_transform(documents)
+
+        print(cosine_similarity(sparse_matrix, sparse_matrix))
 
 
 if __name__ == '__main__':
     main = MiningTools()
-    main.argument_word_match(["it can be argued","i argue that x is true","we can then conclude", "whatever", "not an argument"])
+    main.calculate_cosine_similarity()
+   # main.argument_word_match(["i argue that x is true","we can then conclude", "whatever", "hello there world"])

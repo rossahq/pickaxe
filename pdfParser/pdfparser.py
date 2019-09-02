@@ -8,8 +8,8 @@ import pathlib
 
 class PdfParser:
 
-    def parse_pdf(self):
-        data = pathlib.Path(r'C:\Users\ROSSA\PycharmProjects\pickaxe\test', 'test.pdf')
+    def parse_pdf(self, path, filename):
+        data = pathlib.Path(path, filename)
         fp = open(data, 'rb')
         rsrcmgr = PDFResourceManager()
         retstr = io.StringIO()
