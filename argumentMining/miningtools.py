@@ -38,18 +38,37 @@ class MiningTools:
         print(matches.__len__())
         print(sentences.__len__())
 
-        print(matches)
+        return matches
 
     def calculate_cosine_similarity(self, topic_models, arguments, *args, **kwargs):
 
+        topic_arg_relations = {}
+        for topic in topic_models:
+            topic_arg_relations[topic] = []
         #todo integrate args and topics
-        documents = arguments
+        for arg in arguments:
+            best_cosine_result = 0
+            x = 0
+            while x <= 4:
+                documents = [topic_models[x],arg]
 
-        count_vectorizer = CountVectorizer(stop_words='english')
-        count_vectorizer = CountVectorizer()
-        sparse_matrix = count_vectorizer.fit_transform(documents)
+                count_vectoriser = CountVectorizer(stop_words='english')
+                count_vectoriser = CountVectorizer()
+                sparse_matrix = count_vectoriser.fit_transform(documents)
 
-        print(cosine_similarity(sparse_matrix, sparse_matrix))
+                cosine_result = cosine_similarity(sparse_matrix, sparse_matrix)
+                # get the single cosine value
+                cosine_result = cosine_result[0][1]
+
+                if cosine_result > best_cosine_result:
+                    best_cosine_result = cosine_result
+                    matched_topic = topic_models[x]
+
+                if x == 4:
+                    topic_arg_relations[matched_topic] = arg
+                x = x + 1
+
+        return topic_arg_relations
 
 
 if __name__ == '__main__':

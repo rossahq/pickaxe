@@ -27,7 +27,8 @@ class PdfParser:
         return data
 
     def clean_pdf(self, text):
-        pass
+        text = text.replace('\n', ' ')
+        return text
 
     def split_text(self, text):
         split_text = text.split(".")
