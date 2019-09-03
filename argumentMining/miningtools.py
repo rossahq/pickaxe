@@ -6,7 +6,8 @@ import pandas as pd
 class MiningTools:
 
     def argument_word_match(self, sentences):
-
+        # source for argumentative words & phrases list is:
+        # https://www.academia.edu/3296265/Using_linguistic_phenomena_to_motivate_a_set_of_coherence_relations
         argumentative_words = ['above all' , 'accordingly' , 'actually' , 'admittedly' , 'after' , 'after all' , 'after that' ,'afterwards' , 'again' ,
                                     'all in all' , 'all the same' ,'also' , 'alternatively' ,'although' , 'always assuming that' ,'anyway' , 'as' ,'as a consequence' , 'as a corollary' ,
                                     'as a result' , 'as long as' ,'as soon as' , 'as well' ,'at any rate' , 'at first' ,'at first blush' , 'at first sight' ,'at first view' ,
@@ -45,11 +46,11 @@ class MiningTools:
         topic_arg_relations = {}
         for topic in topic_models:
             topic_arg_relations[topic] = []
-        #todo integrate args and topics
+
         for arg in arguments:
             best_cosine_result = 0
             x = 0
-            while x <= 4:
+            while x <= len(topic_models) - 1:
                 documents = [topic_models[x],arg]
 
                 count_vectoriser = CountVectorizer(stop_words='english')
@@ -57,6 +58,7 @@ class MiningTools:
                 sparse_matrix = count_vectoriser.fit_transform(documents)
 
                 cosine_result = cosine_similarity(sparse_matrix, sparse_matrix)
+
                 # get the single cosine value
                 cosine_result = cosine_result[0][1]
 
@@ -64,14 +66,9 @@ class MiningTools:
                     best_cosine_result = cosine_result
                     matched_topic = topic_models[x]
 
-                if x == 4:
+                if x == len(topic_models) - 1:
                     topic_arg_relations[matched_topic] = arg
+
                 x = x + 1
 
         return topic_arg_relations
-
-
-if __name__ == '__main__':
-    main = MiningTools()
-    main.calculate_cosine_similarity()
-   # main.argument_word_match(["i argue that x is true","we can then conclude", "whatever", "hello there world"])
