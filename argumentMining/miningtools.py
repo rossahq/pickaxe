@@ -1,7 +1,16 @@
-from fuzzywuzzy import fuzz
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import CountVectorizer
-import pandas as pd
+from gensim.models import WordEmbeddingSimilarityIndex
+from nltk.corpus import stopwords
+from gensim import corpora
+from nltk import download
+from gensim.similarities import SparseTermSimilarityMatrix
+import gensim.downloader as api
+import logging
+
+logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
+download('stopwords')  # Download stopwords list.
+
 
 class MiningTools:
 
@@ -72,3 +81,31 @@ class MiningTools:
                 x = x + 1
 
         return topic_arg_relations
+
+    def calculate_soft_cosine_similarity(self, topic_model, sentence, *args, **kwargs):
+
+        topic_model = topic_model.lower().split()
+        sentence = sentence.lower().split()
+
+        stop_words = stopwords.words('english')
+        topic_model = [w for w in topic_model if w not in stop_words]
+        sentence = [w for w in sentence if w not in stop_words]
+
+        # Prepare a dictionary and a corpus.
+        documents = [topic_model, sentence]
+        dictionary = corpora.Dictionary(documents)
+
+        topic_model = dictionary.doc2bow(topic_model)
+        sentence = dictionary.doc2bow(sentence)
+
+        w2v_model = api.load("glove-wiki-gigaword-50")
+        similarity_index = WordEmbeddingSimilarityIndex(w2v_model)
+        similarity_matrix = SparseTermSimilarityMatrix(similarity_index, dictionary)
+
+        similarity = similarity_matrix.inner_product(topic_model, sentence, normalized=True)
+        print('similarity = %.4f' % similarity)
+
+
+if __name__ == '__main__':
+    tools = MiningTools()
+    tools.calculate_soft_cosine_similarity('Hong Kong democracy is under threat from China', 'The Chinese government is anti-democracy and hates Hong Kong')
