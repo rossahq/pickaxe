@@ -13,8 +13,8 @@ def generate_topic_models(document):
     count_data = count_vectorizer.fit_transform(document)
 
     # Tweak the two parameters below (use int values below 15)
-    number_topics = 5
-    number_words = 8
+    number_topics = 3
+    number_words = 5
 
     # Create and fit the LDA model
     lda = LDA(n_components=number_topics)
