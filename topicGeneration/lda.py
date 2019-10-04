@@ -1,8 +1,6 @@
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.decomposition import LatentDirichletAllocation as LDA
-import numpy as np
-import pathlib
-import matplotlib.pyplot as plt
+import subprocess
 import seaborn as sns
 sns.set_style('whitegrid')
 
@@ -35,3 +33,6 @@ def get_topics(model, count_vectorizer, n_top_words):
         topics.append(topic)
     print(topics)
     return topics
+
+def generate_lda_topic_model():
+    subprocess.call(['java', '-jar', ''])
