@@ -26,11 +26,13 @@ class PdfParser:
 
         return data
 
-    def clean_pdf(self, text):
+    @staticmethod
+    def clean_pdf(text):
         text = text.replace('\n', ' ')
         return text
 
-    def split_text(self, text):
+    @staticmethod
+    def split_text(text):
         split_text = text.split(".")
         return split_text
 
