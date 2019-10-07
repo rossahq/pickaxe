@@ -53,7 +53,9 @@ class MiningTools:
         return matches
 
     def claim_verb_match(self, sentences):
-        verbs = ['required', 'identified', 'argued', 'needed', 'stated', 'failed', 'agreed', 'judged']
+        verbs = ['required', 'identified', 'argued', 'needed', 'stated', 'failed', 'agreed', 'judged', 'suggested',
+                 'felt','considered','should'
+                 ]
 
         matches = []
         for sentence in sentences:
@@ -121,29 +123,25 @@ class MiningTools:
         dictionary = corpora.Dictionary(documents)
 
         w2v_model = api.load("glove-wiki-gigaword-50")
+        similarity_index = WordEmbeddingSimilarityIndex(w2v_model)
 
         for sentence in sentences:
             best_cosine_result = 0
             x = 0
-
+            normal_sentence = sentence
             sentence = sentence.lower().split()
 
             stop_words = stopwords.words('english')
             sentence = [w for w in sentence if w not in stop_words]
 
             while x <= len(topic_models) - 1:
-                print("before stop words")
-                print("sentence = " + str(sentence))
-                print("Topic model = " + topic_models[x])
 
                 topic_model = (topic_models[x]).lower().split()
                 topic_model = [w for w in topic_model if w not in stop_words]
-                print("after stop words" + str(topic_model))
 
                 topic_model_bow = dictionary.doc2bow(topic_model)
                 sentence_bow = dictionary.doc2bow(sentence)
 
-                similarity_index = WordEmbeddingSimilarityIndex(w2v_model)
                 similarity_matrix = SparseTermSimilarityMatrix(similarity_index, dictionary)
 
                 similarity = similarity_matrix.inner_product(topic_model_bow, sentence_bow, normalized=True)
@@ -154,7 +152,7 @@ class MiningTools:
                     matched_topic = topic_models[x]
 
                 if x == len(topic_models) - 1:
-                    topic_claim_relations[matched_topic] = sentence
+                    topic_claim_relations[matched_topic].append(normal_sentence)
 
                 x = x + 1
         return topic_claim_relations

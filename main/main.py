@@ -23,7 +23,8 @@ class Main:
         x = 0
         for relation in topic_argument_relations:
             x = x + 1
-            print("Topic : " + relation)
+            print("Topic key words: " + relation)
+            print("Number of claims related to this topic: %.0f" % len(topic_argument_relations.get(relation)))
             print("Arguments associated with topic :" + str(topic_argument_relations.get(relation)))
 
     def read_txt(self, path, filename):
