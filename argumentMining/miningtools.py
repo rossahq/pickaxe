@@ -6,11 +6,13 @@ from gensim import corpora
 from nltk import download
 from gensim.similarities import SparseTermSimilarityMatrix
 import gensim.downloader as api
+from nltk.corpus import wordnet
 import logging
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 download('stopwords')  # Download stopwords list.
-
+download('wordnet') # Download WordNet lexical database
+syns = wordnet.synsets('program')
 
 class MiningTools:
 
@@ -50,6 +52,29 @@ class MiningTools:
 
         return matches
 
+    def claim_verb_match(self, sentences):
+        verbs = ['required', 'identified', 'argued', 'needed', 'stated', 'failed', 'agreed', 'judged']
+
+        matches = []
+        for sentence in sentences:
+            for verb in verbs:
+                if verb in sentence and sentence not in matches:
+                    matches.append(sentence)
+        print(matches.__len__())
+        print(sentences.__len__())
+
+        return matches
+
+    def calculate_expanded_cosine_similarity(self):
+        synonyms = []
+        antonyms = []
+        for syn in wordnet.synsets("good"):
+            for l in syn.lemmas():
+                synonyms.append(l.name())
+                if l.antonyms():
+                    antonyms.append(l.antonyms()[0].name)
+        print(set(synonyms))
+
     def calculate_cosine_similarity(self, topic_models, arguments, *args, **kwargs):
 
         topic_arg_relations = {}
@@ -82,30 +107,60 @@ class MiningTools:
 
         return topic_arg_relations
 
-    def calculate_soft_cosine_similarity(self, topic_model, sentence, *args, **kwargs):
+    def calculate_soft_cosine_similarity(self, topic_models, sentences, *args, **kwargs):
 
-        topic_model = topic_model.lower().split()
-        sentence = sentence.lower().split()
+        topic_claim_relations = {}
+        for topic in topic_models:
+            topic_claim_relations[topic] = []
 
-        stop_words = stopwords.words('english')
-        topic_model = [w for w in topic_model if w not in stop_words]
-        sentence = [w for w in sentence if w not in stop_words]
-
-        # Prepare a dictionary and a corpus.
-        documents = [topic_model, sentence]
+        documents = []
+        for topic in topic_models:
+            documents.append(topic.lower().split())
+        for sentence in sentences:
+            documents.append(sentence.lower().split())
         dictionary = corpora.Dictionary(documents)
 
-        topic_model = dictionary.doc2bow(topic_model)
-        sentence = dictionary.doc2bow(sentence)
-
         w2v_model = api.load("glove-wiki-gigaword-50")
-        similarity_index = WordEmbeddingSimilarityIndex(w2v_model)
-        similarity_matrix = SparseTermSimilarityMatrix(similarity_index, dictionary)
 
-        similarity = similarity_matrix.inner_product(topic_model, sentence, normalized=True)
-        print('similarity = %.4f' % similarity)
+        for sentence in sentences:
+            best_cosine_result = 0
+            x = 0
+
+            sentence = sentence.lower().split()
+
+            stop_words = stopwords.words('english')
+            sentence = [w for w in sentence if w not in stop_words]
+
+            while x <= len(topic_models) - 1:
+                print("before stop words")
+                print("sentence = " + str(sentence))
+                print("Topic model = " + topic_models[x])
+
+                topic_model = (topic_models[x]).lower().split()
+                topic_model = [w for w in topic_model if w not in stop_words]
+                print("after stop words" + str(topic_model))
+
+                topic_model_bow = dictionary.doc2bow(topic_model)
+                sentence_bow = dictionary.doc2bow(sentence)
+
+                similarity_index = WordEmbeddingSimilarityIndex(w2v_model)
+                similarity_matrix = SparseTermSimilarityMatrix(similarity_index, dictionary)
+
+                similarity = similarity_matrix.inner_product(topic_model_bow, sentence_bow, normalized=True)
+                print('similarity = %.4f' % similarity)
+
+                if similarity > best_cosine_result:
+                    best_cosine_result = similarity
+                    matched_topic = topic_models[x]
+
+                if x == len(topic_models) - 1:
+                    topic_claim_relations[matched_topic] = sentence
+
+                x = x + 1
+        return topic_claim_relations
 
 
 if __name__ == '__main__':
     tools = MiningTools()
-    tools.calculate_soft_cosine_similarity('Hong Kong democracy is under threat from China', 'The Chinese government is anti-democracy and hates Hong Kong')
+    #tools.calculate_soft_cosine_similarity('Hong Kong democracy is under threat from China', 'The Chinese government is anti-democracy and hates Hong Kong')
+    #tools.calculate_expanded_cosine_similarity()
