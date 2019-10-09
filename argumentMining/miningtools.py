@@ -31,8 +31,8 @@ class MiningTools:
                                     'in contrast' , 'in fact' ,'initially' , 'in other words' ,'in particular' , 'in short' , 'in spite of that' , 'in sum' ,
                                     'in that case' , 'in the beginning' ,'in the case of ' , 'in the end' ,'in the _rst place' , 'in the meantime' ,'in this way' , 'in turn' ,
                                     'inasmuch as' , 'incidentally' ,'indeed' , 'instead' ,'it follows that', 'it might appear that','it might seem that', 'just as' ,
-                                    'last' , 'lastly' ,'later' , 'let us assume','likewise' , 'meanwhile' ,'merely' , 'merely because' , 'moreover' , 'much later' ,
-                                    'much sooner' , 'naturally' ,'neither is it the case', 'nevertheless' , 'no doubt' ,'nonetheless' , 'not' ,'not because' , 'not only' ,
+                                    'last', 'lastly','later', 'let us assume','likewise' , 'meanwhile' ,'merely' , 'merely because' , 'moreover' , 'much later' ,
+                                    'much sooner' , 'naturally','neither is it the case', 'nevertheless' , 'no doubt' ,'nonetheless' , 'not' ,'not because' , 'not only' ,
                                     'not that' , 'notably' , 'notwithstanding that' ,'now' , 'now that' ,'obviously' , 'of course' ,'on condition that' , 'on one hand' ,'on one side' , 'on the assumption that' ,
                                     'on the contrary' , 'on the grounds that' ,'on the one hand' , 'on the one side' ,'on the other hand' , 'on the other side' ,'once' , 'once again' ,
                                     'once more' , 'or', 'or else', 'otherwise' ,'overall' , 'plainly' ,'presumably because' , 'previously' ,'provided that' , 'providing that' ,
@@ -47,14 +47,17 @@ class MiningTools:
             for arg in argumentative_words:
                 if arg in sentence and sentence not in matches:
                     matches.append(sentence)
-        print(matches.__len__())
-        print(sentences.__len__())
+        print("number of sentences: %d" % sentences.__len__())
+        print("number of argument matches: %d" % matches.__len__())
+        print(matches)
+
 
         return matches
 
     def claim_verb_match(self, sentences):
         verbs = ['required', 'identified', 'argued', 'needed', 'stated', 'failed', 'agreed', 'judged', 'suggested',
-                 'felt','considered','should'
+                 'felt', 'considered','should', "consider", "discussed", "reported", "believe", "believed", "thought",
+                  "explained", "ensure", ""
                  ]
 
         matches = []
@@ -62,20 +65,34 @@ class MiningTools:
             for verb in verbs:
                 if verb in sentence and sentence not in matches:
                     matches.append(sentence)
-        print(matches.__len__())
-        print(sentences.__len__())
+                else:
+                    for syn in wordnet.synsets(verb):
+                        for lemma in syn.lemmas():
+                            #print("Lemma name: " + lemma.name() + " verb: " + verb)
+                            if lemma.name() in sentence and sentence not in matches:
+                                matches.append(sentence)
+
+        print("verb matches: %d" % len(matches))
 
         return matches
 
-    def calculate_expanded_cosine_similarity(self):
+    def calculate_expanded_cosine_similarity(self, word):
         synonyms = []
         antonyms = []
-        for syn in wordnet.synsets("good"):
+        for syn in wordnet.synsets(word):
             for l in syn.lemmas():
                 synonyms.append(l.name())
                 if l.antonyms():
                     antonyms.append(l.antonyms()[0].name)
         print(set(synonyms))
+
+        syns = []
+
+        for syn in wordnet.synsets(word):
+            for lemma in syn.lemmas():
+                syns.append(lemma.name())
+        print("SYNS")
+        print(set(syns))
 
     def calculate_cosine_similarity(self, topic_models, arguments, *args, **kwargs):
 
@@ -124,6 +141,7 @@ class MiningTools:
 
         w2v_model = api.load("glove-wiki-gigaword-50")
         similarity_index = WordEmbeddingSimilarityIndex(w2v_model)
+        similarity_matrix = SparseTermSimilarityMatrix(similarity_index, dictionary)
 
         for sentence in sentences:
             best_cosine_result = 0
@@ -142,7 +160,6 @@ class MiningTools:
                 topic_model_bow = dictionary.doc2bow(topic_model)
                 sentence_bow = dictionary.doc2bow(sentence)
 
-                similarity_matrix = SparseTermSimilarityMatrix(similarity_index, dictionary)
 
                 similarity = similarity_matrix.inner_product(topic_model_bow, sentence_bow, normalized=True)
                 print('similarity = %.4f' % similarity)
@@ -160,5 +177,4 @@ class MiningTools:
 
 if __name__ == '__main__':
     tools = MiningTools()
-    #tools.calculate_soft_cosine_similarity('Hong Kong democracy is under threat from China', 'The Chinese government is anti-democracy and hates Hong Kong')
-    #tools.calculate_expanded_cosine_similarity()
+    tools.calculate_expanded_cosine_similarity("identified")

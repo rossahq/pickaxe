@@ -2,13 +2,20 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.decomposition import LatentDirichletAllocation as LDA
 import subprocess
 import seaborn as sns
+import re
 sns.set_style('whitegrid')
 
 
-def generate_topic_models(document):
-
+def generate_topic_models(sentences):
+    x = 0
+    while x < len(sentences) - 1:
+        #remove digits from text e.g 2006
+        clean_sentence = re.sub(r'\d+', '', sentences[x])
+        sentences[x] = clean_sentence
+        x = x + 1
+    print(sentences)
     count_vectorizer = CountVectorizer(stop_words='english')  # Fit and transform the processed titles
-    count_data = count_vectorizer.fit_transform(document)
+    count_data = count_vectorizer.fit_transform(sentences)
 
     # Tweak the two parameters below (use int values below 15)
     number_topics = 3
