@@ -13,7 +13,7 @@ class Main:
     def main(self):
 
         pdf_parser = parser.PdfParser()
-        parsed_text = pdf_parser.parse_pdf(r'C:\Users\ROSSA\PycharmProjects\pickaxe\test', 'leveson_inquiry_vol_1-UK.pdf')
+        parsed_text = pdf_parser.parse_pdf(r'C:\Users\ROSSA\PycharmProjects\pickaxe\test', 'iraq_exec_summary.pdf')
         #parsed_text = self.read_txt(r'C:\Users\ROSSA\PycharmProjects\pickaxe\test', 'test.txt')
         print(str(parsed_text))
         topic_models = topicGeneration.lda.generate_topic_models(parsed_text)
