@@ -36,6 +36,7 @@ class PdfParser:
 
     def clean_pdf(self, text):
         text = text.replace('\n', ' ')
+        text = text.replace('_c viking_executive', '.')
         text = text.encode('ascii', 'ignore')
         text = str(text)
 
@@ -62,7 +63,6 @@ class PdfParser:
         y = True
         while x < len(split_text)-1 or y is False:
             if '1.' in split_text[x]:
-                print("found")
                 start_splice = 0
                 end_splice = x
                 del split_text[start_splice:end_splice]
