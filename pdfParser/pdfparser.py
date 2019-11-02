@@ -35,16 +35,16 @@ class PdfParser:
         return data
 
     def clean_pdf(self, text):
-        text = text.replace('\n', ' ')
+        #text = text.replace('\n', ' ')
         text = text.replace('_c viking_executive', '.')
         text = text.encode('ascii', 'ignore')
         text = str(text)
 
-        split = text.split(" ")
-        text = self.get_core_text(split)
-
-        text = " ".join(text)
-        text = " ".join(text.split())
+        # split = text.split(" ")
+        # text = self.get_core_text(split)
+        #
+        # text = " ".join(text)
+        # text = " ".join(text.split())
 
         return text
 

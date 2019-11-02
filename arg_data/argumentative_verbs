@@ -1,0 +1,24 @@
+{
+  "claim_verbs": [
+    "required",
+    "identified",
+    "argued",
+    "needed",
+    "stated",
+    "failed",
+    "agreed",
+    "judged",
+    "suggested",
+    "felt",
+    "considered",
+    "should",
+    "consider",
+    "discussed",
+    "reported",
+    "believe",
+    "believed",
+    "thought",
+    "explained",
+    "ensure"
+  ]
+}

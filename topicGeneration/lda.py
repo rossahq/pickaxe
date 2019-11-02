@@ -46,12 +46,12 @@ def get_topics(model, count_vectorizer, n_top_words):
 
 def generate_lda_topic_model(sentences):
 
-    create_dat_file(sentences)
+    # create_dat_file(sentences)
 
     subprocess.call(['java', '-mx512M', '-cp', 'C:/Users/ROSSA/PycharmProjects/pickaxe/topicModellingResources/JGibbLDA-v.1.0/bin;C:/Users/ROSSA/PycharmProjects/pickaxe/topicModellingResources/JGibbLDA-v.1.0/lib/args4j-2.0.6.jar',
                      'jgibblda.LDA', '-est', '-ntopics', '5','-twords', '7',
                      '-dir', 'C:/Users/ROSSA/PycharmProjects/pickaxe/test', '-dfile',
-                     'test.dat'])
+                     'output.dat'])
 
 
 def create_dat_file(sentences):
