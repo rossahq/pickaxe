@@ -1,0 +1,27 @@
+Number of sentences in document: 11 
+Number of claims detected: 6 
+
+TOPIC 1 KEY WORDS: students time save experiences
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence: 
+The purpose of this essay is to discuss what can students and the organizations benefit from the activity that the students sent by their schools to work for companies without salaries
+
+CLAIM sentence:  In this essay, I would start by analyzing the advantages for doing this for both students and companies, and then I would draw a conclusion at the end
+
+CLAIM sentence: 
+To begin with, students can learn invaluable experiences through the period of time working for the institutions they are assigned to
+
+CLAIM sentence: 
+To sum up, students can learn outside the textbook and classroom with a real working experiences that can be a great opportunity for future job consideration whereas organizations earn much more as they can not only save time and money but also be enlightened by what young people have to say
+
+TOPIC 2 KEY WORDS: new money younger tend
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  In addition, the younger generations can help them generate new ideas as the students are not bound to restricted workload and they tend to have greater imagination, which can be essentially helpful when they are making a new advertisement or slogan
+
+TOPIC 3 KEY WORDS: companies experiences save money
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  For this reason, the internship, although without pay, can give them the experiences that money cannot buy
+Matches: 3Pickaxe claims: 6Annotated claims: 5

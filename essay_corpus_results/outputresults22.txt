@@ -1,0 +1,32 @@
+Number of sentences in document: 14 
+Number of claims detected: 9 
+
+TOPIC 1 KEY WORDS: universities young academic generation
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence: 
+However, on the other side of the coin are voices in the opposition, saying that universities provide not only skills for careers, but also academic knowledge for the human race, such as bio science, politics, and medicine
+
+CLAIM sentence:  Another significant factor of universities is that diverse experiences in the campus life can make the young generation more competently because there are a number of chances through internships, deeper discussion, independent life, and exchange scholarships
+
+CLAIM sentence:  Although higher education does not guarantee young students' success, the benefits of learning in universities are the vital factor in creating more possibilities for the development of society through advancing academic fulfillment and the young generation who have experiences and challenges
+
+TOPIC 2 KEY WORDS: view university students job
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence: 
+Persistent deliberation is happening as to whether it is desirable for the youth to go to university
+
+CLAIM sentence:  In regard to the development of the country, some people believe that it is essential for young students to get high quality of education in universities, while others think that it is only one of causes to increase the rate of unemployment
+
+CLAIM sentence:  From their point of view, the fact is that there are numerous job opportunities for those who do not have the certification of university graduation, such as mechanics, sales persons, or engineers, and, furthermore, labors for graduates are in short supply
+
+CLAIM sentence:  What is worse, the labor market for highly educated students is now too competitive to get a job after finishing their studying
+
+TOPIC 3 KEY WORDS: time university salary national
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  In this essay, I will analyze both views first in order to come up with a fool-proof decision
+
+CLAIM sentence:  In this regard it is a loss of national productivity that young people spend much time on searching for high salary jobs, even can be a sheer time-consuming
+Matches: 3Pickaxe claims: 9Annotated claims: 5

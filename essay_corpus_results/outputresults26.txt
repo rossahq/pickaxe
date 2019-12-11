@@ -1,0 +1,29 @@
+Number of sentences in document: 17 
+Number of claims detected: 7 
+
+TOPIC 1 KEY WORDS: food cooking cooked nutrition
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  However it is obvious that cooked food can bring about some negative influence result from utilizing the artificial ingredients, ignoring the nutrition of food and modifying people's eating habits
+
+TOPIC 2 KEY WORDS: food cooking people ingredients
+Number of CLAIMS related to this TOPIC: 0
+
+TOPIC 3 KEY WORDS: prepared foods time people
+Number of CLAIMS related to this TOPIC: 6
+
+CLAIM sentence: 
+Nowadays, more and more people begin to select prepared food as their daily meals, since it can effectively save time which is considered as money in our modern society
+
+CLAIM sentence: 
+First of all, to make their food easier to prepare and taste delicious, almost every producer adds a wide range of artificial ingredients in to the food that is now purchased by most people
+
+CLAIM sentence:  It is truth that cooking prepared foods needs much less time in comparison with the fresh food
+
+CLAIM sentence: , whereas some research has apparently demonstrated that prepared foods are unable to support enough nutrients we need, especially for children who are growing up 
+
+CLAIM sentence:  At the increasing living pace, the majority of people tend to choose microwave as their unique cooker that help them prepare a dish in five minutes
+
+CLAIM sentence: 
+In conclusion, although the invention of prepared foods definitely satisfies the demand of some people who are busy in their work, it is not a good thing
+Matches: 2Pickaxe claims: 7Annotated claims: 6

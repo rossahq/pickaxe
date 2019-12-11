@@ -1,0 +1,35 @@
+Number of sentences in document: 20 
+Number of claims detected: 10 
+
+TOPIC 1 KEY WORDS: cities areas rural urban
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence:  However, from my perspective, I suppose this suggestion is not advisable, for it cannot alter the situation essentially and instead it may give rise to new concerns in rural areas
+
+CLAIM sentence:  On the other hand, the relocation of companies and factories in cities may leave more space to build new residential areas, thus alleviating the urban housing crisis at present
+
+CLAIM sentence:  This is because some employees are reluctant to live in the rural areas only due to the relocation of their workplaces
+
+CLAIM sentence:  Taking into the growth of their children into consideration, the married workers may believe the educational resources in cities are far superior to ones in the countryside, and because of this, they probably opt for living in the cities
+
+CLAIM sentence: 
+Also, the suggested step can bring about environmental problems in the rural areas
+
+TOPIC 2 KEY WORDS: traffic problems cities housing
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence: 
+However, the proposed measure is not fundamental to resolve urban traffic and housing problems
+
+CLAIM sentence: 
+Overall, I would conclude that relocating big firms, factories and their employees is not sensible to address urban traffic and housing problems
+
+CLAIM sentence:  Instead, the government should be forward-looking, resolving the problems within the cities
+
+TOPIC 3 KEY WORDS: companies factories countryside clock
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  In such cases, some people think an effective way to tackle these problems is to relocate big firms, factories and their employees in cities to the countryside
+
+CLAIM sentence:  As companies and factories move to the countryside, they may deplete the local natural resources as the raw materials for production
+Matches: 5Pickaxe claims: 10Annotated claims: 7

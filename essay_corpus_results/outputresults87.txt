@@ -1,0 +1,30 @@
+Number of sentences in document: 19 
+Number of claims detected: 8 
+
+TOPIC 1 KEY WORDS: petrol vehicles car fuel
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  Therefore, those who are suffering from the inefficiency of public transport tend to own a car immediately
+
+CLAIM sentence:  For instance, individuals had to pay much more for fuel if they possess more than three vehicles; secondly, the government should develop the public transport to meet the residents' demand; last but not least, the people should be encouraged to use electric car to reduce the car emissions
+
+TOPIC 2 KEY WORDS: cars problems traffic pollution
+Number of CLAIMS related to this TOPIC: 0
+
+TOPIC 3 KEY WORDS: best solution think money
+Number of CLAIMS related to this TOPIC: 6
+
+CLAIM sentence:  Some argue that the best solution to these issues is raising the price of petrol
+
+CLAIM sentence:  In such case if they must pay more money on fuel, they may consider about that price of purchasing additionally for more time
+
+CLAIM sentence:  In fact, some families really need one or two cars
+
+CLAIM sentence:  Therefore, I can hardly agree that the solution is the best
+
+CLAIM sentence: 
+From my mind, I think there are three ways tosolve these problems
+
+CLAIM sentence: 
+To conclude, I personally believe the government should take some actions such as classifying the payment, boosting the public transport and encouraging individuals to adopt the zero-emission cars, rather than raising the price of petrol, to get rid of the traffic and pollution problems
+Matches: 3Pickaxe claims: 8Annotated claims: 7

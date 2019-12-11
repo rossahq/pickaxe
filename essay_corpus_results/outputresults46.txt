@@ -1,0 +1,37 @@
+Number of sentences in document: 13 
+Number of claims detected: 11 
+
+TOPIC 1 KEY WORDS: universities students certain knowledge
+Number of CLAIMS related to this TOPIC: 8
+
+CLAIM sentence: 
+Universities have quickly become the places to go when people seek to further develop their expertise
+
+CLAIM sentence:  Whether this really suits the needs of their potential employers is highly unlikely as universities nowadays have evolved as a domain of experts: where more and more is known about less and less
+
+CLAIM sentence:  Nevertheless, among the vast range of choices offered there are often some training courses that have direct implications on job-seeking and other aspects in everyday life
+
+CLAIM sentence: 
+A university, in common sense, is a medium for conveying or providing access to knowledge
+
+CLAIM sentence:  What is meant by this is that students are the ones universities should really cater for, not the employers, as students are the ones here to seek knowledge
+
+CLAIM sentence:  High school graduates choose to further educate themselves in universities because of all different reasons: a degree that's more widely accepted, gain knowledge and insight into an industry, or simply deepen their research interests in a certain field
+
+CLAIM sentence: 
+On the other hand, universities and be regarded as institutions where abundant educational resources gather
+
+CLAIM sentence:  So the truth lies somewhere closer to the fact that a university should provide access to information, rather than offer selected courses that are suitable for employers' taste
+
+TOPIC 2 KEY WORDS: university courses training offered
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  However, although I respect the universities' aim of providing such courses to develop skills required for work and support their cause, I do not believe it is the main or best function of a university
+
+CLAIM sentence:  It is, therefore, not necessary for a certain course or type of training to be offered to the students by a university, but instead, these must be made available when needed
+
+CLAIM sentence:  It would be helpful, however, if certain courses concerning workplace skills can also be made available to students to help shape their futures
+
+TOPIC 3 KEY WORDS: courses access employers selected
+Number of CLAIMS related to this TOPIC: 0
+Matches: 4Pickaxe claims: 11Annotated claims: 6

@@ -1,0 +1,34 @@
+Number of sentences in document: 15 
+Number of claims detected: 9 
+
+TOPIC 1 KEY WORDS: women home married life
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  By taking up a job, a wife can earn more money to support her family life
+
+CLAIM sentence:  These women will set a good example for their children
+
+TOPIC 2 KEY WORDS: housework women job good
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence: 
+Personally, I believe that married women nowadays have right to take up jobs like men when employment discrimination based on gender have been erased significantly
+
+CLAIM sentence:  This is really necessary in cases of her husband's low salary and the difficulty of getting a good job at the present
+
+TOPIC 3 KEY WORDS: women working outside married
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence:  Working outside home will bring a lot of benefits to both married woman and their household
+
+CLAIM sentence: 
+Secondly, working outside the house creates opportunities for married women to contact with the outer world, strengthen their character and show their capacity
+
+CLAIM sentence: 
+Last but not least, nowadays, there are many supporting conditions that help women balance housework and work
+
+CLAIM sentence:  Besides the gorvernment's policies on limited families and their husbands' sharing in the housework, many employers are willing to offer part-time jobs for women
+
+CLAIM sentence: 
+In conclusion, a well-organized home does not need the housewife's presence the whole day long and married women could go to work in order to enjoy the working life outside the home
+Matches: 3Pickaxe claims: 9Annotated claims: 5

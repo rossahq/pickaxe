@@ -1,0 +1,16 @@
+Number of sentences in document: 30 
+Number of claims detected: 2 
+
+TOPIC 1 KEY WORDS: competition selfish kind oneself
+Number of CLAIMS related to this TOPIC: 0
+
+TOPIC 2 KEY WORDS: approach operative competition success
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  Some people think that inculcating co-operative approach in a child is essential while some think that competing is the best way to succeed
+
+TOPIC 3 KEY WORDS: competition operation helps social
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  However, co-operative approach always helps a child to become a responsible adult with good moral values and a friendly social circle
+Matches: 1Pickaxe claims: 2Annotated claims: 10

@@ -1,0 +1,39 @@
+Number of sentences in document: 15 
+Number of claims detected: 12 
+
+TOPIC 1 KEY WORDS: advertising idea different positive
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence: 
+Nowadays, the use of advertisement through different forms of media such as newspapers, radio and television has become very prevalent, so it is thought to be a necessary part of today's society
+
+CLAIM sentence:  For example, customers of telecommunication services will have an idea about the current offers of different companies and hence they can compare them and then have a better decision in choosing their internet or mobile phone plans
+
+TOPIC 2 KEY WORDS: advertisements businesses people generally
+Number of CLAIMS related to this TOPIC: 6
+
+CLAIM sentence:  Many believe that advertising has brought great benefits to lives therefore it should be considered a positive activity while others have held a complete different idea about this
+
+CLAIM sentence:  Advertisements are, therefore, very important for many businesses to increase sales and hence profits
+
+CLAIM sentence:  Also, to consumers, advertising can bring them many benefits
+
+CLAIM sentence: 
+However, it can be seen that some people have argued against advertising due to its negative impacts
+
+CLAIM sentence:  Firstly, a huge amount of different advertisements could be sent automatically by a system to personal phones or email addresses, this is generally known as spam, and causes discomfort or even annoyance to many people
+
+CLAIM sentence:  Therefore, advertising is believed by many, a financial burden to businesses
+
+TOPIC 3 KEY WORDS: advertising good support strong
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence:  From all of these, it is easy to see why the idea that advertising is a positive part of life will garner strong support
+
+CLAIM sentence:  Secondly, advertising can be very expensive and not every advertising campaign can be done successfully and brings good results
+
+CLAIM sentence: 
+In conclusion, after analyzing the pros and cons of advertising, both of the views have strong support, but it is felt that more good comes from advertising than bad
+
+CLAIM sentence:  Thus, the idea that advertising is a positive part of life can be more supported
+Matches: 4Pickaxe claims: 12Annotated claims: 4

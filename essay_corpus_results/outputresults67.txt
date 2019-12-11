@@ -1,0 +1,30 @@
+Number of sentences in document: 10 
+Number of claims detected: 7 
+
+TOPIC 1 KEY WORDS: art public truth regardless
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  It is needless to say that art inevitably involves imagination, exaggeration and sometimes is purely fabricated; regardless of whether the work of art is based on truth or not, it is the public's authority to determine how to interpret its meaning
+
+TOPIC 2 KEY WORDS: work art artists ideas
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence: 
+Innovative artists bring enjoyment and inspiration to our sometimes tedious life; however, some people deem that artists have been entrusted with too much freedom and power and should be restricted by the government
+
+CLAIM sentence: 
+One of the major concerns against freeing artists' creation derives from the fear of social misleading which would destabilize the society; however, I believe the audiences have their own judgement and are not likely to be misled or influenced by some art work
+
+CLAIM sentence:  If the art displays unreality, the public audiences certainly have the acumen to recognise its untruthfulness and only appreciate its art value; if the art reflects the reality, then what would be the intention to ban it if it was not for covering the dirty truth? Would it be autocratic if the government clamp down the artists who are telling the truth? In a word, the notion of being afraid of social misleading is unjustified
+
+CLAIM sentence: 
+Let's then take a look at the impact that art has posed on individuals
+
+CLAIM sentence: 
+By way of conclusion, I do not root for the idea that restrictions should be put on artists work; on the contrary, they should be encouraged to express their innovative ideas – this world needs them to make itself colourful
+
+TOPIC 3 KEY WORDS: art artists adolescents adults
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  I absolutely agree that restrictions on exposure to adolescents should apply as adolescents are not mature enough to avoid being led astray by these contents; however, in the case of adults being the audience, there's really nothing to hide – these negative things objectively exist on this planet and it is impossible for adults to be brain-washed only because of some pieces of creative art
+Matches: 4Pickaxe claims: 7Annotated claims: 6

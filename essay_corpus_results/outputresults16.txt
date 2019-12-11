@@ -1,0 +1,29 @@
+Number of sentences in document: 13 
+Number of claims detected: 7 
+
+TOPIC 1 KEY WORDS: animal experiments animals rapid
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence: 
+With the rapid development of the standard of people's life, increasing numbers of animal experiments are done, new medicines and foods, for instance
+
+CLAIM sentence:  The animal experiments accelerate the vanishing of some categories of animals
+
+CLAIM sentence:  
+To sum up, I reaffirm that although there is some disadvantages of animals' profits, the merits of animal experiments still outweigh the demerits
+
+TOPIC 2 KEY WORDS: people new animals human
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence: 
+First of all, as we all know, animals are friendly and vital for people, because if there are no animals in the world, the balance of nature will broke down, and we, human, will die out as well
+
+CLAIM sentence:  To begin with, it is indisputable that every new kind food or pill may be noxious, and scientists must do something to insure that the new invention benefits people instead of making people ill or even dying
+
+CLAIM sentence:  Thus even if they are volunteers; they cannot take the place of animals to test the new foods or medicines
+
+TOPIC 3 KEY WORDS: animals testing cruel foods
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  Some opponents says that it is cruel to animals and nature, however, I believe that no sensible person will deny that it is a dramatically cruel activity to humanity if the latest foods or medicines are allowed to sold without testing on animals
+Matches: 3Pickaxe claims: 7Annotated claims: 5

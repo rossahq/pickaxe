@@ -1,0 +1,21 @@
+Number of sentences in document: 15 
+Number of claims detected: 4 
+
+TOPIC 1 KEY WORDS: advertisements products important aim
+Number of CLAIMS related to this TOPIC: 0
+
+TOPIC 2 KEY WORDS: television consumers people celebrities
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence: 
+Nowadays, we can see advertisements everywhere, from television set to posters on the streets
+
+TOPIC 3 KEY WORDS: advertising product quality good
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  Most of the time, it is not about the function or quality of the commodities themselves but really the promotion of the good feeling of possessing the product
+
+CLAIM sentence:  Since having these products shows their status, the quality obviously is not relatively important
+
+CLAIM sentence:  Advertising also helps to keep prices at reasonable levels, creates a fair environment for commercial competition
+Matches: 1Pickaxe claims: 4Annotated claims: 4

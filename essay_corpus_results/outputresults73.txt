@@ -1,0 +1,23 @@
+Number of sentences in document: 18 
+Number of claims detected: 5 
+
+TOPIC 1 KEY WORDS: words used negative slight
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  Nonetheless, this is different when words are used to explain what the illustration is about
+
+TOPIC 2 KEY WORDS: way people communication messages
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  This strongly depicts the power of images in conveying messages, ideas, or opinions to people
+
+TOPIC 3 KEY WORDS: images words hand certain
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  Hence, I agree only to certain degree that in today's world, image serves as a more effective means of communication
+
+CLAIM sentence: 
+To conclude, both images and words go hand in hand and one cannot wholly emphasise on only one aspect, either images or words
+
+CLAIM sentence:  Hence, for a more meaningful communication, these two elements have their respective roles to play: image to exemplify and words to describe a particular subject
+Matches: 2Pickaxe claims: 5Annotated claims: 5

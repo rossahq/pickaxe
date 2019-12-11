@@ -1,0 +1,33 @@
+Number of sentences in document: 24 
+Number of claims detected: 10 
+
+TOPIC 1 KEY WORDS: university criteria gender job
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  This tendency enforces universities to accept student according to the gender
+
+CLAIM sentence:  They must consider the academic record of the student as main criteria of admission
+
+CLAIM sentence:  Therefore, universities follow the requirement of job providers and decide subject suitable for particular gender
+
+TOPIC 2 KEY WORDS: women home time field
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  They still believe that in present time women must do such type of work only
+
+CLAIM sentence:  Initially, if we look into the fact, women have proved themselves in every field whether it is indoor or outdoor
+
+TOPIC 3 KEY WORDS: universities candidates work job
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence:  They are acting as a good housewife and they are flying planes also
+
+CLAIM sentence:  Every university designs its courses according to the need of employers
+
+CLAIM sentence:  For instance employers need male candidates for the heavy work such as repairing and installation of heavy machine
+
+CLAIM sentence:  They want female candidates for soft natured work like counseling, teaching, designing etc
+
+CLAIM sentence: 
+To conclude, I strongly believe that universities much open choice for everyone to select his subject
+Matches: 3Pickaxe claims: 10Annotated claims: 4

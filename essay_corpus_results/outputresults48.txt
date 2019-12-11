@@ -1,0 +1,26 @@
+Number of sentences in document: 14 
+Number of claims detected: 6 
+
+TOPIC 1 KEY WORDS: able interactions students significant
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence: 
+A matter of considerable controversy at present is the issue of whether distance-learning should be promoted as much as possible, or rather attending lectures in person should be allowed to take a predominant place in universities because this way of learning is superior than online degrees
+
+CLAIM sentence: 
+Nevertheless, opponents of online-degrees would argue that attending lectures in person provides students an opportunity to communicate with teachers and other classmates
+
+TOPIC 2 KEY WORDS: students teaching universities colleges
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence:  From my perspective, online-teaching should be widely used among colleges and universities in terms of convenience and optimizing cost for educational institutions
+
+CLAIM sentence:  In earlier times, students who were tired of commuting had to attend schools nearby, regardless of any differences in teaching facilities, teacher's qualifications or the school reputation
+
+CLAIM sentence:  Thanks to the economical online-teaching, universities and colleges are able to offer grants for students who have outstanding academic achievements but are unable to attend schools because of financial constrains
+
+CLAIM sentence:  They further point out that traditional teaching approaches involving discussion and cooperation among students play a significant role in campus life
+
+TOPIC 3 KEY WORDS: learning distance online degrees
+Number of CLAIMS related to this TOPIC: 0
+Matches: 4Pickaxe claims: 6Annotated claims: 9

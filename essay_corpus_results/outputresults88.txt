@@ -1,0 +1,37 @@
+Number of sentences in document: 25 
+Number of claims detected: 12 
+
+TOPIC 1 KEY WORDS: cities environment town suburban
+Number of CLAIMS related to this TOPIC: 0
+
+TOPIC 2 KEY WORDS: people town small green
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  It is contrary in small town life, where people are ready to help whenever their neighbors are in need
+
+CLAIM sentence:  It is wonderful that I get up early in the morning and take a walk in such a green place
+
+CLAIM sentence:  Nonetheless, peaceful atmosphere, friendliness of people, and green landscape strongly convince me that a small town is the best place for me to live in
+
+TOPIC 3 KEY WORDS: small people towns life
+Number of CLAIMS related to this TOPIC: 9
+
+CLAIM sentence: 
+Many people believe that the life in a major metropolis is convenient and interesting
+
+CLAIM sentence:  Personally, however, I am in favor of living in a small town
+
+CLAIM sentence:  It is clearly seen that people in large cities face annoying noise and dirty air emitted from vehicles almost everyday
+
+CLAIM sentence:  Meanwhile, lives small towns are great deal more quiet and the air is always fresh
+
+CLAIM sentence:  These features make a suburban town the paradise for people who want to escape from suffocating lives in major cities
+
+CLAIM sentence:  In my experience, many people in urban areas even do not know the names of their neighbors
+
+CLAIM sentence:  The relationship among them can be so close that they usually attend the birthday party of one of their neighboring people
+
+CLAIM sentence:  The affection from people around brings me cozy feeling on my birthday when I live away from my family
+
+CLAIM sentence:  It seems to me that there are more trees and lakes in towns than in cities
+Matches: 3Pickaxe claims: 12Annotated claims: 5

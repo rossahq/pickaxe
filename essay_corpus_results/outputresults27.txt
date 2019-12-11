@@ -1,0 +1,34 @@
+Number of sentences in document: 15 
+Number of claims detected: 10 
+
+TOPIC 1 KEY WORDS: countries local resources provide
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  For instance, most developing countries are lack of educational resources, such as experienced teachers, evaluation systems and teaching facilities, which is usually neglected by local authorities
+
+CLAIM sentence:  Thus, the critical method to improve the condition of poor countries is to help them build up a complete educational system instead of financial aid
+
+CLAIM sentence:  This means some powerful countries provide financial support in order to acquire the right to exploit the local resources and target the local labour market
+
+TOPIC 2 KEY WORDS: countries developing financial aid
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence: 
+As is commonly understood, there is an increasingly gap between developed countries and developing countries
+
+CLAIM sentence:  It can be seen that some developed countries and organization are proving financial assistance to the impoverished countries
+
+CLAIM sentence:  Therefore, developing countries should not totally depend on the financial support from powerful countries
+
+CLAIM sentence: 
+In conclusion, financial aid is not the only way to assist poor countries
+
+TOPIC 3 KEY WORDS: countries education support developed
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  This will be proven by analyzing the necessity of developing their education and the real objective of supporters
+
+CLAIM sentence:  From this example, it is obvious that if the developed countries are unwilling to share their successful experience in education, the developing countries will remain undeveloped, even though they gain a great deal of economic support
+
+CLAIM sentence:  And it has been proven that developing education and improving national technology and science level are the path they have to undergo if they really want to alter current situation
+Matches: 3Pickaxe claims: 10Annotated claims: 3

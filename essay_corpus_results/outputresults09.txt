@@ -1,0 +1,46 @@
+Number of sentences in document: 33 
+Number of claims detected: 16 
+
+TOPIC 1 KEY WORDS: marijuana tons market tax
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  Imagine if we were to legalize and tax it, the government would make tons of profit and we could start paying off this $trillion national debt
+
+CLAIM sentence:  The main reason cannabis remains illegal is because lobbyists are making tons of money off of prohibition
+
+TOPIC 2 KEY WORDS: people prohibition marijuana cannabis
+Number of CLAIMS related to this TOPIC: 6
+
+CLAIM sentence:  Users of the drug aren't the only ones who support cannabis; many of us who do not indulge are pro-legalization because we see that prohibition does more harm than good
+
+CLAIM sentence:  , people a year die from alcohol poisoning, while zero people have died from overdosing on pot
+
+CLAIM sentence:  They think legalizing this drug would expose more children and teens to it
+
+CLAIM sentence:  
+You never hear about the positive effects marijuana can have on society
+
+CLAIM sentence:  Many musicians admit that cannabis helps them get creative with their music and opens their minds to new ideas and concepts
+
+CLAIM sentence:  The point is people have benefited from marijuana whether it was for medical or recreational purposes
+
+TOPIC 3 KEY WORDS: marijuana drug drugs dangerous
+Number of CLAIMS related to this TOPIC: 8
+
+CLAIM sentence:  For example, Pharmaceutical companies lobby against cannabis because at a lower price, there are so many drugs (painkillers, sleep medication) it could replace
+
+CLAIM sentence:  Another group that benefits greatly from prohibition are the drug cartels
+
+CLAIM sentence: 
+You could argue that marijuana is physically unhealthy for you and that's why it's illegal
+
+CLAIM sentence:  But then you'd have to explain why alcohol and tobacco are legal because those substances are way more harmful than cannabis
+
+CLAIM sentence:  Teens are susceptible to harsher drugs after trying marijuana because they are introduced to these hardcore drugs in the same underground market where they got the marijuana, not because it's a gateway drug
+
+CLAIM sentence:  Another thing that is often said is that marijuana is addictive and can be abused, thus making it mentally unhealthy
+
+CLAIM sentence:  Many cancer patients have used medical marijuana as a way of dealing with nausea after treatment or stimulating their appetite
+
+CLAIM sentence:  Cannabis is classified as a schedule one drug, this suggests that it is as dangerous and addictive as heroin, meth, and even more dangerous than cocaine
+Matches: 4Pickaxe claims: 16Annotated claims: 7

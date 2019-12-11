@@ -1,0 +1,31 @@
+Number of sentences in document: 14 
+Number of claims detected: 8 
+
+TOPIC 1 KEY WORDS: ways causing heating enviorement
+Number of CLAIMS related to this TOPIC: 0
+
+TOPIC 2 KEY WORDS: pollution air reduce private
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  While these companies make a huge amount of money from their bussinesses, most of them are not considering to take precautions to reduce the amount of air pollution
+
+CLAIM sentence:  As house heating is a major need in the winter time, some households do not consider to use filters to reduce the amount of pollution that the heating causes
+
+CLAIM sentence:  In my opinion, by charging private indiviuals for causing air pollution, that will at least contribute to reduce the amount of the pollution
+
+TOPIC 3 KEY WORDS: air pollution companies individuals
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence:  I believe that more reponsibilities should put on private individuals and companies such as paying to clean up air pollution
+
+CLAIM sentence:  
+First, in most industrialised countries, there is a number of companies that holds heavy factories in their constitutions
+
+CLAIM sentence:  
+On the other hand, I believe that governments should restrict the use of products that cause air pollution for both individuals and companies
+
+CLAIM sentence:  Governments also should use an amount of money from their budgets to clean up the air, instead of putting all the responsibility to companies and private individuals
+
+CLAIM sentence:  
+In conclusion, due to the fact that governments are responsible to provide a healthy enviorement for their inhabitants and they should be responsible from cleaning up the air pollution, both companies and private individuals should take the main part to clean up the air pollution
+Matches: 5Pickaxe claims: 8Annotated claims: 6

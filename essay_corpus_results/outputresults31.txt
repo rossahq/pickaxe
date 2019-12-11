@@ -1,0 +1,29 @@
+Number of sentences in document: 21 
+Number of claims detected: 7 
+
+TOPIC 1 KEY WORDS: automobiles traffic alternative transportation
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence: 
+Recently, a great deal of attention has been paid to means of transportation
+
+CLAIM sentence:  Some state that automobile is the most convenient transportation, while others assert that alternative forms of transport should be considered in view of environmental pollution
+
+CLAIM sentence:  In my opinion, I strongly agree that alternative means of transportation and international laws in controlling automobiles should be introduced
+
+CLAIM sentence:  Therefore, it is crucial to alter automobiles to the other means of transportation and to legislate to control automobiles
+
+CLAIM sentence: 
+In summary, even though some people claim the convenience of automobile, I would state that alternative forms of transport and international laws on controlling automobiles are necessary due to the environmental protection and the alleviation of traffic congestion
+
+TOPIC 2 KEY WORDS: carbon dioxides automobile air
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  With regard to the former, alternative forms which emit less carbon dioxides and gasses than automobiles are ideal
+
+TOPIC 3 KEY WORDS: use automobiles car reduce
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence: 
+In order to solve these problems, alternative forms of transportation and international laws to control automobiles ownership and use can work effectively
+Matches: 4Pickaxe claims: 7Annotated claims: 7

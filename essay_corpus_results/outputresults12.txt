@@ -1,0 +1,35 @@
+Number of sentences in document: 33 
+Number of claims detected: 9 
+
+TOPIC 1 KEY WORDS: school students checks drugs
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  These checks are required because malicious students bring drugs and weapons to school and store them in the lockers
+
+TOPIC 2 KEY WORDS: school students security drugs
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  School was known to be a secure environment for children where they could learn and have a have a fun time with friends
+
+TOPIC 3 KEY WORDS: locker checks students school
+Number of CLAIMS related to this TOPIC: 7
+
+CLAIM sentence: 
+Why shouldn't schools do locker checks? Why do many students oppose locker checks? Random locker checks are not done to torment and/or invade the privacy of the students, but for many other important reasons which include school security
+
+CLAIM sentence:  Random locker checks should be made obligatory and done frequently to assure the wellbeing of the students
+
+CLAIM sentence: 
+In the first place, locker checks help increase the safety in schools
+
+CLAIM sentence:  
+In the second place, locker checks keep students healthy
+
+CLAIM sentence:  To prevent problems like this locker checks are required
+
+CLAIM sentence: 
+Lastly, more students will comply with the school policies because there are frequent locker checks and other students are getting caught and punished for it
+
+CLAIM sentence: 
+Locker checks should be made mandatory and done frequently because they assure security in schools, makes students healthy, and will make students obey school policies in the future
+Matches: 6Pickaxe claims: 9Annotated claims: 11

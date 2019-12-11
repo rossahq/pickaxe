@@ -1,0 +1,28 @@
+Number of sentences in document: 16 
+Number of claims detected: 7 
+
+TOPIC 1 KEY WORDS: people culture life language
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence: 
+Some people claim that the prevalent of English brings a great number of benefits for people
+
+CLAIM sentence:  Even English is a sophisticated language; it does not express every detail of life especially in Asia countries, which have totally different linguistic system
+
+CLAIM sentence:  But, we still need preserve other languages for sake of keeping the linguistic and cultural diversity
+
+TOPIC 2 KEY WORDS: english languages language people
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence:  In the ancient time, the different languages and geography set barriers for people to exchange their goods and ideas
+
+CLAIM sentence:  In addition, English is a beautiful language, which is more systematical and extensive than many other languages
+
+CLAIM sentence:  Obviously, these languages have special significance for people who belong to them and using English to replace them is crudity
+
+CLAIM sentence: 
+Personally, English as an elegant language should be advocated in many fields to expand the global trade and communications
+
+TOPIC 3 KEY WORDS: trade barriers dominated countries
+Number of CLAIMS related to this TOPIC: 0
+Matches: 3Pickaxe claims: 7Annotated claims: 5

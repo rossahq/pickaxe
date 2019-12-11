@@ -11,7 +11,7 @@ class DocumentAnnotator:
 
         sadf.set_title("Pickaxe")
         sadf.add_notes("Claim detection")
-        sadf.set_description("Pickaxe results")
+        sadf.set_description("Pickaxe essay_corpus_results")
 
         for claim in claims:
             con = str(claim)

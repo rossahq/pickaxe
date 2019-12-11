@@ -1,0 +1,28 @@
+Number of sentences in document: 24 
+Number of claims detected: 7 
+
+TOPIC 1 KEY WORDS: artists mind creative governments
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence:  Many governments restrict the artistic works of the creative minds
+
+CLAIM sentence: 
+Time and again, creative artists like Michaelangelo, Picasso, Salman Rushdie, Shakespeare etc
+
+CLAIM sentence: 
+Unfortunately, many governments restrict the artists
+
+CLAIM sentence:  Imagination is at its best when the mind is relaxed and free from the fear of government or any restrictive laws
+
+TOPIC 2 KEY WORDS: artists works social ideas
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  Like the media, artists should also be given the freedom to express their ideas freely
+
+CLAIM sentence:  Many artists have been involved in controversies because of hurting the religious or social beliefs of the common people
+
+CLAIM sentence:  Artists should have self-awareness not to create vulgar, hurtful or useless works which do not serve any purpose
+
+TOPIC 3 KEY WORDS: creativity creative works social
+Number of CLAIMS related to this TOPIC: 0
+Matches: 2Pickaxe claims: 7Annotated claims: 9

@@ -1,0 +1,28 @@
+Number of sentences in document: 11 
+Number of claims detected: 7 
+
+TOPIC 1 KEY WORDS: responsible fees money basic
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  They will be more responsible with their studies when they pay the fees themselves
+
+TOPIC 2 KEY WORDS: government students secondary primary
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  In the other hand, I don't think it is also fair for the government as the government has been paying a lot of money for their students' primary and secondary education
+
+CLAIM sentence:  In addition to that, the students will become more independent and it will build their characters in the marketplace as well
+
+TOPIC 3 KEY WORDS: pay education parents fees
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence:  I completely agree that government should provide those education to their people; however, for the more higher education like university, the students or their parents should pay for the fees
+
+CLAIM sentence:  It is better for them to use the money to pay for the other students' education so that all people in their country could receive the same education
+
+CLAIM sentence: 
+Moreover, students that already have a basic knowledge and education can get a part-time job and they can pay for their own studies when their parent could not afford to pay it
+
+CLAIM sentence: 
+In conclusion, I completely agree that government should not pay for the university fees because this will make both the parents and students in charge for their future themselves not just depend on the government to do all their responsibilities for them
+Matches: 5Pickaxe claims: 7Annotated claims: 6

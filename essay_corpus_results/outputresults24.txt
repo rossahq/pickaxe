@@ -1,0 +1,24 @@
+Number of sentences in document: 15 
+Number of claims detected: 6 
+
+TOPIC 1 KEY WORDS: play studying games use
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  Due to this neglect, they will have a bad result in school because when they can not live without internet, they will have no time for their studying
+
+CLAIM sentence:  People should learn how to use it properly to make it an effective tool because computer should be used not only for entertaining but also for working and studying purpose
+
+TOPIC 2 KEY WORDS: computer children people life
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  Some people think that computer is good for children and it should be used daily by children but some others think differently
+
+CLAIM sentence:  Some social surveys have shown that a few children use computer for studying purpose, most of them are attracted by facebook, blog, etc
+
+TOPIC 3 KEY WORDS: eyes games especially online
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  When they concentrate on computer for too long, their eyes will get tired, which is the main reason for some eyes problems, typically shortsighted
+
+CLAIM sentence:  It is a well-known fact that people who are addicted to games, especially online games, can eventually bear dangerous consequences
+Matches: 2Pickaxe claims: 6Annotated claims: 6

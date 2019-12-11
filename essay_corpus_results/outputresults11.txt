@@ -1,0 +1,33 @@
+Number of sentences in document: 71 
+Number of claims detected: 9 
+
+TOPIC 1 KEY WORDS: camping campers air sun
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence: 
+Sometimes camping can also make campers realize the overlooked luxuries that they experience day to day
+
+TOPIC 2 KEY WORDS: camping people cooking nature
+Number of CLAIMS related to this TOPIC: 6
+
+CLAIM sentence:  Camping is a great way to have fun while keeping the overall cost down
+
+CLAIM sentence: 
+The benefits of camping can also be seen in families
+
+CLAIM sentence:  Some people that do not like the idea of camping give the reason of having to camp with people in such a confined space
+
+CLAIM sentence:  Campers need to think out their meals thoroughly prior to making a trip
+
+CLAIM sentence:  Campers can come from every state, and sometimes different countries
+
+CLAIM sentence:  No matter if the camping is experienced in a tent or in a luxury camper, getting outside, in the wilderness can provide a lifetime of memories
+
+TOPIC 3 KEY WORDS: camping campers body family
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  Camping to one person can mean seclusion in the middle of a forest
+
+CLAIM sentence: 
+Campers often express how a feeling comes over their body when they reach the moment when the day to day turmoil leaves their body
+Matches: 2Pickaxe claims: 9Annotated claims: 16

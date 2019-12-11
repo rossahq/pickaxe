@@ -1,0 +1,27 @@
+Number of sentences in document: 18 
+Number of claims detected: 7 
+
+TOPIC 1 KEY WORDS: traditional believe skills time
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  In the past, only when people went to the local place could they experience the specific traditional lifestyles
+
+CLAIM sentence:  This means individuals who were engaged in work and therefore could not spare time to travel or restricted by traffic conditions had to miss the chance to appreciate the traditional skills
+
+CLAIM sentence:  But I believe this is not the issue because people tend to follow the trend back to the tradition in the recent years
+
+TOPIC 2 KEY WORDS: technology traditional people techniques
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  For example, China has successfully promoted traditional techniques in the Shanghai World Expo, using a variety of state-of –the-art technological methods, such as robots and LED screens
+
+CLAIM sentence:  They argue that people, especially youngsters, are crazier about fresh and advanced things, such as digital products, thus becoming indifferent to traditional techniques
+
+TOPIC 3 KEY WORDS: traditional technology lifestyles techniques
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  Instead, technology plays a key role in promoting traditional techniques and lifestyles
+
+CLAIM sentence: 
+Therefore, I will conclude that technology indeed supports the preservation and promotion of traditional techniques and lifestyles
+Matches: 2Pickaxe claims: 7Annotated claims: 6

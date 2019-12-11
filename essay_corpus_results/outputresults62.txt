@@ -1,0 +1,25 @@
+Number of sentences in document: 24 
+Number of claims detected: 6 
+
+TOPIC 1 KEY WORDS: equal universities genders accept
+Number of CLAIMS related to this TOPIC: 0
+
+TOPIC 2 KEY WORDS: women given education males
+Number of CLAIMS related to this TOPIC: 6
+
+CLAIM sentence:  Its a debatable issue whether universities should accept equal number of males and females in a course or not
+
+CLAIM sentence:  The whole world aims for women empowerment, and to achieve this, females should be given equal opportunities as males
+
+CLAIM sentence:  For example, students studying in boy's colleges do not generally know how to talk to a female or behave in front of them
+
+CLAIM sentence:  On the other hand, females studying in girl's colleges are too shy to face boys
+
+CLAIM sentence: 
+Unfortunately, some male chauvinists think that women are incapable in particular fields, like maths, mechanical engineering, defence etc
+
+CLAIM sentence:  Choice of course should be the discretion of the student and their merit, irrespective of the gender
+
+TOPIC 3 KEY WORDS: genders women behave helps
+Number of CLAIMS related to this TOPIC: 0
+Matches: 2Pickaxe claims: 6Annotated claims: 5

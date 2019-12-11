@@ -1,0 +1,30 @@
+Number of sentences in document: 9 
+Number of claims detected: 7 
+
+TOPIC 1 KEY WORDS: life pursuit quality housing
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  This is simply because knowledge and wisdom is the guarantee of the enhancement of the quality of people's lives for a well-rounded social system
+
+CLAIM sentence:  However, it is unrealistic to pursuit of this high standard of life in many developing countries, in which the basic housing supply has still been a huge problem with plenty of lower income family have squeezed in a small tight room
+
+TOPIC 2 KEY WORDS: education art social money
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence: 
+My view is that the government should give priorities to invest more money on the basic social welfares such as education and housing instead of subsidizing arts relative programs
+
+CLAIM sentence: 
+Art is not the key determination of quality of life, but education is
+
+TOPIC 3 KEY WORDS: people lives art make
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  In order to make people better off, it is more urgent for governments to commit money to some fundamental help such as setting more scholarships in education section for all citizens
+
+CLAIM sentence: 
+Admittedly, art, to some extent, serve a valuable function about enriching one's daily lives, for example, it could bring release one's heavy burden of study pressure and refresh human bodies through a hard day from work
+
+CLAIM sentence: 
+To conclude, art could play an active role in improving the quality of people's lives, but I think that governments should attach heavier weight to other social issues such as education and housing needs because those are the most essential ways enable to make people a decent life
+Matches: 4Pickaxe claims: 7Annotated claims: 4

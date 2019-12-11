@@ -1,0 +1,25 @@
+Number of sentences in document: 13 
+Number of claims detected: 6 
+
+TOPIC 1 KEY WORDS: tourism destination tourist natural
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  While some might think the tourism bring large profit for the destination countries, I would contend that this industry has affected the cultural attributes and damaged the natural environment of the tourist destinations
+
+CLAIM sentence:  Therefore this proves that international tourism can create negative impacts on the destination countries
+
+TOPIC 2 KEY WORDS: thailand involved marine authorities
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  Take Thailand for example, in the Vietnam War, many American soldiers came to Thailand for a break and involved in sexual and drug activities, these huge demands caused many local businesses opened and expanded, even illegally involved in under-age prostitutes to maximise their profits
+
+CLAIM sentence:  This was due to the lack of adequate controls by authorities and lead to a bad image of Thailand tourism
+
+CLAIM sentence:  For this reason, many marine lives have been endangered, in the extremes part of the reef become uninhabitable for these marine species
+
+TOPIC 3 KEY WORDS: tourism nature environments reef
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence: 
+To conclude, I strongly believe that the tourism has created threatening pressure on both the sociocultural and natural environments
+Matches: 3Pickaxe claims: 6Annotated claims: 7

@@ -1,0 +1,30 @@
+Number of sentences in document: 17 
+Number of claims detected: 7 
+
+TOPIC 1 KEY WORDS: guns accidents fewer violent
+Number of CLAIMS related to this TOPIC: 0
+
+TOPIC 2 KEY WORDS: guns gun example time
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence:  From my point of view, it is sensible to enforce the gun control
+
+CLAIM sentence: 
+The first factor considered is the risk of accidents with guns
+
+CLAIM sentence: 
+Secondly, most violent crimes are related to the abuse of guns, especially in some countries where guns are available for people
+
+CLAIM sentence:  Take an example, in American, young adults and even juveniles can get access to guns, which leads to the tragedies of school gun shooting
+
+TOPIC 3 KEY WORDS: rates gun countries strictly
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence: 
+Gun is definitely not a kind of normal good in our society, which is strictly controlled in most countries
+
+CLAIM sentence:  However, gun control in some countries is relatively loose than others
+
+CLAIM sentence: 
+In conclusion, considering the rise in accident rates, violent crime rates and suicide rates, I support that the guns should be strictly limited and the government should enforce a series of laws to prevent our societies from violence
+Matches: 3Pickaxe claims: 7Annotated claims: 6

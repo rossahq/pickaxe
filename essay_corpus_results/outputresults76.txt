@@ -1,0 +1,33 @@
+Number of sentences in document: 14 
+Number of claims detected: 9 
+
+TOPIC 1 KEY WORDS: health care education government
+Number of CLAIMS related to this TOPIC: 6
+
+CLAIM sentence:  And a much debated issue these days is whether or not the government should be responsible for citizens' health care and education
+
+CLAIM sentence: 
+Some people argue that it is the government that should be obligated to fund the health care and education for citizens
+
+CLAIM sentence:  Therefore, the government should be accountable for citizens' health care and education to keep society safe and stable
+
+CLAIM sentence: 
+On the other hand, some people oppose the argument, saying it is a waste of public money for the government to subsidize health care and education of each citizen in society, since a great number of people, in fact, have had the capacity to pay for the both privately
+
+CLAIM sentence:  Instead, the government should give priority to more pressing problems related to social members' wellbeing, such as soaring crime rate, AIDS epidemic or the shortage of infrastructure, which are requiring financial resources from the government to address
+
+CLAIM sentence: 
+Personally, I think the government should fund the deprived for their health care and education, who are the group in real need for the authority's help
+
+TOPIC 2 KEY WORDS: citizens government society education
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  At the same time, citizens available for the both should encourage the government to allocate money to more urgent areas
+
+CLAIM sentence:  After all, the harmonious society calls for the joint efforts of the government and citizens
+
+TOPIC 3 KEY WORDS: government fund harmonious stable
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  This is because citizens enjoy the right to live in a harmonious and stable environment, which should be enabled by the government, the leader of the society
+Matches: 5Pickaxe claims: 9Annotated claims: 5

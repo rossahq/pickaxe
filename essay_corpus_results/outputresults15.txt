@@ -1,0 +1,24 @@
+Number of sentences in document: 19 
+Number of claims detected: 6 
+
+TOPIC 1 KEY WORDS: people email messaging text
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  Especially, thanks to the function provided by email and text messaging (SMS), it is cheaper and faster to transfer a lot of information, even to many people at the same time
+
+TOPIC 2 KEY WORDS: email language writing messaging
+Number of CLAIMS related to this TOPIC: 0
+
+TOPIC 3 KEY WORDS: written language use ways
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence:  With this situation, some people believe that they may be factors decreasing the position of written language
+
+CLAIM sentence:  I am in favor of that idea because of their advantages and the fact we can see today about the use of these new means
+
+CLAIM sentence:  Even in some cases, people compose a message with only emoticons (the expressions by face created by service providers), which means there is no room for writing or typing texts
+
+CLAIM sentence:  Moreover, it is more dangerous that youngsters sometimes use such new languages in their studying, writing assignments
+
+CLAIM sentence:  Nevertheless, educators and individuals themselves, especially the youths should pay ore attention to this matter so that we can take advantages of the new language along with preserving the traditional one
+Matches: 2Pickaxe claims: 6Annotated claims: 6

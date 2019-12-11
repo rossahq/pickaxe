@@ -1,0 +1,23 @@
+Number of sentences in document: 17 
+Number of claims detected: 5 
+
+TOPIC 1 KEY WORDS: said cooperation view attach
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  From this point of view, I firmly believe that we should attach more importance to cooperation during primary education
+
+TOPIC 2 KEY WORDS: cooperation competition team children
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  Take Olympic games which is a form of competition for instance, it is hard to imagine how an athlete could win the game without the training of his or her coach, and the help of other professional staffs such as the people who take care of his diet, and those who are in charge of the medical care
+
+TOPIC 3 KEY WORDS: competition development society life
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  However, when we discuss the issue of competition or cooperation, what we are concerned about is not the whole society, but the development of an individual's whole life
+
+CLAIM sentence:  All of these skills help them to get on well with other people and will benefit them for the whole life
+
+CLAIM sentence: 
+Consequently, no matter from the view of individual development or the relationship between competition and cooperation we can receive the same conclusion that a more cooperative attitudes towards life is more profitable in one's success
+Matches: 2Pickaxe claims: 5Annotated claims: 6

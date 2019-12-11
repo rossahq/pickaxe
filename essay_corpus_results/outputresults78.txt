@@ -1,0 +1,33 @@
+Number of sentences in document: 18 
+Number of claims detected: 9 
+
+TOPIC 1 KEY WORDS: economies resources make firm
+Number of CLAIMS related to this TOPIC: 6
+
+CLAIM sentence: 
+Currently, a great number of countries have pushed forward their economies by developing national industries
+
+CLAIM sentence:  As these needy countries lack adequate financial and human resources, advanced technologies and experience, they have to rely on natural resources to maintain their living standards
+
+CLAIM sentence:  As a result, unchecked and reckless uses of the local raw materials may happen, which can put a strain on the natural resources
+
+CLAIM sentence:  If a firm is environmentally conscious, it may have to make optimal use of its resources to improve its production lines and equipment, which can boost productivity
+
+CLAIM sentence:  On the other hand, without the requirement of environmental preservation, the firm would still consume a vast amount of energy which constitutes a large part of its operational costs, being a hurdle to the economic develpment
+
+CLAIM sentence: 
+Therefore, I would conclude that thriving economies and the preservation of ecosystems can be promoted simultaneously
+
+TOPIC 2 KEY WORDS: resources hand areas countries
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  On the other hand, I suppose the developed countries should support the underdeveloped areas by providing financial resources, technologies and experience so that the environmental problems can be effectively alleviated in these areas
+
+TOPIC 3 KEY WORDS: economic environmental ecosystems people
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  However, some people are worried that the economic targets in industrialized countries may be attained at the expense of the ecosystems
+
+CLAIM sentence: 
+Admittedly, some countries may place economic developments ahead of environmental protection, thus ruining the local environments
+Matches: 2Pickaxe claims: 9Annotated claims: 6

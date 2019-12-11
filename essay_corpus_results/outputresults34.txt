@@ -1,0 +1,31 @@
+Number of sentences in document: 18 
+Number of claims detected: 8 
+
+TOPIC 1 KEY WORDS: school children job future
+Number of CLAIMS related to this TOPIC: 7
+
+CLAIM sentence: 
+Many people believe that children should study at school to have more knowledge that prepare better for their future
+
+CLAIM sentence:  Others, however, think that these children may disrupt their school work and should be allowed to leave school early to find a job
+
+CLAIM sentence:  Personally, I tend to agree with the point of view that student have to be forced to study at school
+
+CLAIM sentence: 
+First of all, schools offer to students a good environment with experienced professors and high quality programs for studying
+
+CLAIM sentence:  Therefore, they have more opprotunities to find a job and to be successful in the future
+
+CLAIM sentence: 
+Nevertheless, it is not unreasonable that some people think that children should interrupt their school work and get a job
+
+CLAIM sentence:  Even though there are some advantages of leaving school to find a job, studying at school is always the best choice for children's future
+
+TOPIC 2 KEY WORDS: skills learn children professional
+Number of CLAIMS related to this TOPIC: 0
+
+TOPIC 3 KEY WORDS: experiences obtained school successful
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  They can get more experiences that can not be obtained at school
+Matches: 3Pickaxe claims: 8Annotated claims: 4

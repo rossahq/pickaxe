@@ -1,0 +1,33 @@
+Number of sentences in document: 19 
+Number of claims detected: 9 
+
+TOPIC 1 KEY WORDS: advertising modern businesses planned
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence: 
+These days, not only many businesses, but also governments have to rely on advertising
+
+CLAIM sentence:  Only well planned and well targeted advertising will bring more foreign tourists to the country
+
+CLAIM sentence: 
+In conclusion, I think that modern society needs advertising
+
+TOPIC 2 KEY WORDS: alcohol cigarettes countries issue
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  Fortunately, some countries take this issue seriously and advertising alcohol, cigarettes and materials with adult content is banned on those countries
+
+TOPIC 3 KEY WORDS: advertising services ads goods
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence:  Some people argue that companies by advertising their goods or services spend their money for nothing
+
+CLAIM sentence:  Other critics say that ads have no purpose, they only cause damages to society and all forms of advertising should be banned
+
+CLAIM sentence: 
+First of all, I do support the idea that advertising alcohol, cigarettes, goods and services with adult content should be prohibited
+
+CLAIM sentence:  In order to promote the country's attractions, the Czech government has to advertise and sell its services to foreign consumers
+
+CLAIM sentence:  Ads will keep as well informed about new products and services, but we should also bear in mind that advertising cigarettes and alcohol will definitely affect our children in negative way
+Matches: 3Pickaxe claims: 9Annotated claims: 6

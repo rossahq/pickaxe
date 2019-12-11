@@ -1,0 +1,37 @@
+Number of sentences in document: 18 
+Number of claims detected: 11 
+
+TOPIC 1 KEY WORDS: space outer oxygen travel
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence:  On the other hand, there are some reasons for human beings to travel to outer space
+
+CLAIM sentence:  As astronauts need to travel to outer space which does not have any oxygen to breathe in, scientists are compelled to do research on the oxygen tanks
+
+CLAIM sentence:  Oxygen tanks, for instance, are proved useful not only in outer space but also underwater
+
+CLAIM sentence: 
+As a conclusion, I personally think that human beings should travel to outer space
+
+TOPIC 2 KEY WORDS: earth space facts instance
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence: 
+For many centuries, outer space has been one of the most favourable realms of study
+
+CLAIM sentence: 
+Firstly, many facts about solar system can be discovered
+
+CLAIM sentence:  Another example is that it is the earth which goes around the sun, not vice versa
+
+CLAIM sentence:  In spite of costing a fortune, space exploration has given aforementioned benefits
+
+TOPIC 3 KEY WORDS: earth planet people space
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  However, a lot of people still consider space exploration as an act of wasting money, to illustrate, astronauts only brought useless rocks back to planet earth despite the large sum of money spent on their equipment
+
+CLAIM sentence:  For instance, a picture of planet earth proved that the earth is round, not flat
+
+CLAIM sentence:  By observing planet earth from outer space, people can find out ample things for example about the atmosphere of the planet earth
+Matches: 3Pickaxe claims: 11Annotated claims: 5

@@ -1,0 +1,18 @@
+Number of sentences in document: 29 
+Number of claims detected: 3 
+
+TOPIC 1 KEY WORDS: computers life human confidential
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  Human life today can't be imagined without computers, so not depending on them is out of question
+
+TOPIC 2 KEY WORDS: computers world dependent cons
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  The whole world is dependent on computers, without which, the world will go back hundreds of years
+
+TOPIC 3 KEY WORDS: computers computer used example
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  Computer was invented for the benefit of mankind and it has fulfilled its objective
+Matches: 1Pickaxe claims: 3Annotated claims: 6

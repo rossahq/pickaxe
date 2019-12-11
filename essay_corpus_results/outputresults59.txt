@@ -1,0 +1,28 @@
+Number of sentences in document: 24 
+Number of claims detected: 7 
+
+TOPIC 1 KEY WORDS: capital punishment criminals crimes
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence:  Retribution is the method for countering criminals
+
+CLAIM sentence: 
+Importantly, capital punishment saves a lot of government funding which is wasted in maintenance of these hardcore criminals
+
+CLAIM sentence:  Criminals who don't have any chance of improvement or who have a past record of such crimes are, therefore, given capital punishment
+
+CLAIM sentence:  I firmly believe that psychopaths, terrorists or any other criminal who lacks empathy for other human lives deserve capital punishment
+
+TOPIC 2 KEY WORDS: jury crime account circumstances
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  The jury must therefore, take into account the circumstances of committing a crime
+
+CLAIM sentence:  However, it should be considered as the last option by the jury and all circumstances must be taken into account before pronouncing the final verdict
+
+TOPIC 3 KEY WORDS: punishment capital crimes society
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence: 
+Capital punishment is essential to control violence in the society
+Matches: 4Pickaxe claims: 7Annotated claims: 7

@@ -1,0 +1,38 @@
+Number of sentences in document: 40 
+Number of claims detected: 11 
+
+TOPIC 1 KEY WORDS: diseases brain cardiovascular americans
+Number of CLAIMS related to this TOPIC: 0
+
+TOPIC 2 KEY WORDS: exercising heart people life
+Number of CLAIMS related to this TOPIC: 6
+
+CLAIM sentence:  It is a crucial element for living a healthier, longer, and happier life
+
+CLAIM sentence:  One out of every four Americans are suffering from some form of cardiovascular diseases, which results in more than forty-five percent of deaths annually
+
+CLAIM sentence:  Most people think of exercising as only being a physical activity, but it's also a mental activity
+
+CLAIM sentence: 
+In conclusion, exercising is the key to making your life healthier, longer, and happier
+
+CLAIM sentence:  Many people come up with plenty of excuses to not exercise; however, if you truly want to improve your mental and physical health you will find the energy and time to exercise
+
+CLAIM sentence:  Everyone should take time out of their days to exercise, so they can improve their lives in many ways
+
+TOPIC 3 KEY WORDS: exercise people exercising helps
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence:  
+The number one reason why people should exercise is because it will keep you healthy
+
+CLAIM sentence:  
+The second benefit to exercising is that it improves self-esteem and confidence
+
+CLAIM sentence:  Exercising gives people energy, which helps people have positive outlooks on life and it helps relieves tension and stress
+
+CLAIM sentence:  Exercising also helps improve you brain function and your memory
+
+CLAIM sentence: 
+In my opinion the best reason to exercise is that it's really fun! Most people think that exercising takes up a lot of time and it requires too much work
+Matches: 4Pickaxe claims: 11Annotated claims: 6

@@ -1,0 +1,23 @@
+Number of sentences in document: 19 
+Number of claims detected: 5 
+
+TOPIC 1 KEY WORDS: mobile phone people phones
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  Mobile phones are not out of expectation
+
+TOPIC 2 KEY WORDS: phones possibility cell mobile
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  However, I do not think these disadvantages will outweigh the advantages brought by cell phones
+
+CLAIM sentence:  It has been proved that overusing of the electronic devices including mobile phones could lead to higher possibility of suffering hearing loss and even cancers, although the further investigation are needed
+
+TOPIC 3 KEY WORDS: problems social lot effects
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence: 
+Nowadays, the popularity of mobile phones has brought about a lot of convenience but at the meanwhile a variety of problems as well, such as social, medical and technical problems
+
+CLAIM sentence:  The contribution of the mobile phone to our modern society is prominent and people's dependence on it is irreversible, although it has a number of problems that should be well handled
+Matches: 3Pickaxe claims: 5Annotated claims: 8

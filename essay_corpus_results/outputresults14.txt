@@ -1,0 +1,32 @@
+Number of sentences in document: 18 
+Number of claims detected: 8 
+
+TOPIC 1 KEY WORDS: teach teachers television skills
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  Moreover, they contend that good television programmes do teach students
+
+TOPIC 2 KEY WORDS: students teachers expectations life
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence: 
+Over the last half century the change in the life of human begings has increased beyond our wildest expectations
+
+TOPIC 3 KEY WORDS: learn students teachers right
+Number of CLAIMS related to this TOPIC: 6
+
+CLAIM sentence: 
+Many people find that students at schools and universities still learn much more from lessons with teachers
+
+CLAIM sentence:  They argue that teachers teach students how to write, read and calculate since they are in kindergarten
+
+CLAIM sentence: 
+Those who feel that students learn far more from other sources, such as the Internet and television, frimly believe that within this sources students learn lots of things which they can't learn in classes
+
+CLAIM sentence: 
+Personally, I think that students learn far more from their teachers than from other source
+
+CLAIM sentence:  Because not only do teachers teach us knowlegde but also the skills to tell right from wrong
+
+CLAIM sentence:  Just imagine: if a student can't even make out whether the source is reasonable or not , then how can he get the right information to help him to learn?
+Matches: 3Pickaxe claims: 8Annotated claims: 4

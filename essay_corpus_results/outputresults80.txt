@@ -1,0 +1,31 @@
+Number of sentences in document: 17 
+Number of claims detected: 8 
+
+TOPIC 1 KEY WORDS: kept enclosures taken natural
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  This is so unfair for them to be taken out of their natural environment and to be kept in small enclosures
+
+TOPIC 2 KEY WORDS: animals zoos good provide
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence:  That is because, many zoos, especially the ones in developing countries, do not provide care and attention which their animals require
+
+CLAIM sentence: 
+On the other hand, the advocators believe that zoos provide the public with good entertainment and also help to ensure the balance of the ecology
+
+CLAIM sentence:  Many people, especially young children enjoy going to zoos and see their favorite animals, cute baby-born animals and the animals that are from the different corners of the world
+
+CLAIM sentence:  Zoos provide educational information about the lives of different animals to the public
+
+CLAIM sentence: 
+In conclusion, both of the arguments have strong supports, but in my own view, more good come from zoos than bad
+
+TOPIC 3 KEY WORDS: animals zoos wrong keeping
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  Many believe that zoos could be very entertaining and ecologically important, whereas, others think that keeping animals in captivity is totally wrong
+
+CLAIM sentence: 
+First, critics of zoology argue that keeping animals in captivity is wrong because animals should be considered non-human persons and they should have the right of having freedom
+Matches: 3Pickaxe claims: 8Annotated claims: 5

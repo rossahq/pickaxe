@@ -1,0 +1,26 @@
+Number of sentences in document: 11 
+Number of claims detected: 6 
+
+TOPIC 1 KEY WORDS: face society modern physical
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  However, in accordance with recent research, experts suggest the lifestyle of individuals in modern society is unhealthy because they lack of physical exercise and face-to-face communication
+
+TOPIC 2 KEY WORDS: people art museums galleries
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence: 
+It is quite common that more and more people can watch exhibitions through television or internet at home due to modern technology; therefore, some people think museums and art galleries will disappear soon
+
+CLAIM sentence:  Although modern technology make it possible, I still believe some museums and art galleries will not disappear
+
+CLAIM sentence: 
+In conclusion, I admit that modern technology has provided a more convenient and comfortable manner for people to watch exhibitions, but museums and art galleries are necessary to be preserved for its importance of education and culture
+
+TOPIC 3 KEY WORDS: place hand tv like
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  Obviously, people who watch exhibitions on TV or internet at home, save the time and money on the road, which is increasingly significant particularly to people in modern society
+
+CLAIM sentence:  It is like travelling to a place is much better than viewing the landscape of that place on TV or photos, so the best method to learn one thing is to experience it
+Matches: 3Pickaxe claims: 6Annotated claims: 6

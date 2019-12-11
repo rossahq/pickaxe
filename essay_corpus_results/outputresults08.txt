@@ -1,0 +1,21 @@
+Number of sentences in document: 19 
+Number of claims detected: 4 
+
+TOPIC 1 KEY WORDS: technology world emphasis technological
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  Accordingly, it is believed that we need to place less emphasis on technological solutions and more on other values, such as economy, politics and education
+
+CLAIM sentence:  Therefore, scientists should not place less emphasis on technological solutions, but try to pay more attention to develop new technologies instead
+
+TOPIC 2 KEY WORDS: technology lives modern development
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence: 
+To begin with, it should be borne in mind that technology plays an integral part in our lives
+
+CLAIM sentence:  In addition, hi-tech devices also have a very positive impact on many aspects of our lives
+
+TOPIC 3 KEY WORDS: diseases health develop hi
+Number of CLAIMS related to this TOPIC: 0
+Matches: 3Pickaxe claims: 4Annotated claims: 6

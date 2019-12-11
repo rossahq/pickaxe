@@ -1,0 +1,31 @@
+Number of sentences in document: 24 
+Number of claims detected: 9 
+
+TOPIC 1 KEY WORDS: knowledge books experience information
+Number of CLAIMS related to this TOPIC: 7
+
+CLAIM sentence: 
+The differences between knowledge from books and from experience have erupted endless controversy
+
+CLAIM sentence:  The purpose of my writing is to deeply discuss these sources of knowledge in two important aspects: accuracy and practicability, and to show my greater interest in knowledge accumulated from experience
+
+CLAIM sentence:  Therefore, knowledge acquired from books is greatly accepted, which means that it is right to the bulk of people
+
+CLAIM sentence:  Meanwhile, knowledge from experience seems a little different from information contained in books
+
+CLAIM sentence:  In my experience, information contained in books is usually put in criteria so that many people can read and understand the content
+
+CLAIM sentence:  Indeed, knowledge from experience helps people more than knowledge from books does
+
+CLAIM sentence:  Experiencing a thing and drawing information from it is really interesting and helpful
+
+TOPIC 2 KEY WORDS: knowledge life real information
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  Whereas, it is easy to put knowledge from experience in real life because it is acquired from what have happened to them
+
+CLAIM sentence:  However, I consider knowledge from experience as the more important source because of its negative impacts on real life
+
+TOPIC 3 KEY WORDS: water reactions depends result
+Number of CLAIMS related to this TOPIC: 0
+Matches: 2Pickaxe claims: 9Annotated claims: 3

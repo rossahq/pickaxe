@@ -1,0 +1,34 @@
+Number of sentences in document: 23 
+Number of claims detected: 10 
+
+TOPIC 1 KEY WORDS: international sporting fans event
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence: 
+International sporting events are a good change to create a multi-nation community of fans having the same passion
+
+CLAIM sentence: 
+An international sporting event is normal held in a country with huge interest from fans all over the world
+
+TOPIC 2 KEY WORDS: people world korea country
+Number of CLAIMS related to this TOPIC: 6
+
+CLAIM sentence:  For the time of occasions, people regardless of nationality, origin and religion will live together
+
+CLAIM sentence:  People can understand more about a country, it is useful to ease tensions between nations
+
+CLAIM sentence:  However, due to this event North Korea showed a friendship and enthuasism
+
+CLAIM sentence:  It is rare times when people can learn about this country
+
+CLAIM sentence:  In Olympic Beijing , Chinese tried thier best to bring the world a spectacular image about their country
+
+CLAIM sentence:  Everythings is created by patriotic emotions of Chinese who wanted to bring a beautiful China to the world
+
+TOPIC 3 KEY WORDS: world emotions safe way
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  It will help people around the world understand each other more
+
+CLAIM sentence:  They will try to create a beautiful image about their land and people
+Matches: 1Pickaxe claims: 10Annotated claims: 5

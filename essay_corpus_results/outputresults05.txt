@@ -1,0 +1,35 @@
+Number of sentences in document: 14 
+Number of claims detected: 10 
+
+TOPIC 1 KEY WORDS: overseas study living difficulties
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  While some students study and live overseas to achieve this, some prefer to study home because of the difficulties of living and studying overseas
+
+CLAIM sentence:  One who is living overseas will of course struggle with loneliness, living away from family and friends but those difficulties will turn into valuable experiences in the following steps of life
+
+CLAIM sentence: 
+In conclusion, there are many difficulties a student might face when studying and living overseas
+
+TOPIC 2 KEY WORDS: living studying overseas new
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence:  In my opinion, one who studies overseas will gain many skills throughout this experience for several reasons
+
+CLAIM sentence:  Compared to the peers studying in the home country, it will be more likely for the one who is living overseas to be successful in adapting himself/herself into new environments and situations in life
+
+CLAIM sentence:  Therefore, one who has studied and lived overseas will become more eligible for the job than his/her peers
+
+CLAIM sentence:  However, living and studying overseas gives the individual a new perspective on the subject that is studied or in general life
+
+TOPIC 3 KEY WORDS: learn depending living studied
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence: 
+First, studying at an overseas university gives individuals the opportunity to improve social skills by interacting and communicating with students from different origins and cultures
+
+CLAIM sentence: 
+Second, living and studying overseas is an irreplaceable experience when it comes to learn standing on your own feet
+
+CLAIM sentence:  Moreover, the one will learn living without depending on anyone else
+Matches: 5Pickaxe claims: 10Annotated claims: 5

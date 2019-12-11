@@ -1,0 +1,32 @@
+Number of sentences in document: 19 
+Number of claims detected: 9 
+
+TOPIC 1 KEY WORDS: government services people arts
+Number of CLAIMS related to this TOPIC: 6
+
+CLAIM sentence: 
+As people have raised their democratic awareness in recent years, they are caring more about how the tax expenditure is distributed by the government
+
+CLAIM sentence:  As a result, some people suggest that the tax money should be allocated to publically beneficial services instead of arts
+
+CLAIM sentence: 
+Admittedly, the government should give priority to public services and facilities
+
+CLAIM sentence:  This is because the government plays the role of a leader among citizens, which should discharge the responsibility of making optimal use of the tax money to keep society safe and stable
+
+CLAIM sentence:  Simultaneously, public services such as education system or medical care can meet people's basic demand of survival, security and knowledge, thus making them feel comfortable, which can lower the crime rate
+
+CLAIM sentence:  Therefore, public services and facilities should be given adequate attention by the authorities to maintain social stability
+
+TOPIC 2 KEY WORDS: arts cultural economic currently
+Number of CLAIMS related to this TOPIC: 0
+
+TOPIC 3 KEY WORDS: local arts cultural people
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  However, from my perspective, I think arts are supposed to be included in the government's investment as well
+
+CLAIM sentence:  This means preserving local arts may promote the preservation of the local cultural heritage, which not only helps the local people have a sense of belonging but also contributes to the booming local tourism industry
+
+CLAIM sentence:  At the same time, the authorities should also respect the value of arts which are individually and socially advantageous
+Matches: 4Pickaxe claims: 9Annotated claims: 8

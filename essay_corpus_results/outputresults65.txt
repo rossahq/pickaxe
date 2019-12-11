@@ -1,0 +1,33 @@
+Number of sentences in document: 16 
+Number of claims detected: 9 
+
+TOPIC 1 KEY WORDS: facilities use funds majority
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  The competition among each of these facilities is an inevitable part of the free market, which should not be interfered by government
+
+CLAIM sentence:  Therefore, it is a bit inappropriate to use the majority of citizens' tax funds to meet a minority of people's needs
+
+TOPIC 2 KEY WORDS: care education medical government
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence:  Recently, some people argue that government should invest more on medical care and education rather than on entertaining or sports facilities
+
+CLAIM sentence:  Therefore, providing education and medical care is more essential and prioritized to the government
+
+CLAIM sentence:  Instead, the establishment of medical facilities or educational institutes is aimed to improve the health or education standard rather than earning profits, which deserves more funds from government
+
+CLAIM sentence:  That is the reason why sectors such as medical care and education deserve more governmental support, because they are accessed by every individual in our society on a daily basis
+
+CLAIM sentence: 
+To summarize, I strongly agree that budgets should be allocated more on medical care and education rather than on building entertaining facilities, because the former is more essential, non-profit oriented to the public and can be accessed by the majority of citizens
+
+TOPIC 3 KEY WORDS: sports building medical theaters
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence: 
+Taking care of thousands of citizens who suffer from disease or illiteracy is more urgent and pragmatic than building theaters or sports stadiums
+
+CLAIM sentence: 
+Entertaining facilities such as cinemas, theaters and sports stadiums are mostly profit-oriented
+Matches: 6Pickaxe claims: 9Annotated claims: 7

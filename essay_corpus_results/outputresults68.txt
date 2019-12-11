@@ -1,0 +1,31 @@
+Number of sentences in document: 13 
+Number of claims detected: 8 
+
+TOPIC 1 KEY WORDS: media government violence scenes
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence: 
+The soaring crime rate has led to the proposal that it is time for the government to take action to control the proliferation of violent scenes in media
+
+CLAIM sentence: 
+Obviously, violence in the media is often portrayed as extreme as possible in order to attract audiences
+
+CLAIM sentence: 
+On the other hand, media, such as TV or film, is considered as the correct information source regulated by the government
+
+CLAIM sentence:  What the government should do immediately is to strengthen censorship to control the amount of violence in media
+
+TOPIC 2 KEY WORDS: violence society excessive extreme
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  However, excessive violence would offer misleading information to the public and exert detrimental influence to the society as well
+
+CLAIM sentence:  In the real world, we are inclined to take extreme approach to tackle a small problem due to excessive violence exposure
+
+TOPIC 3 KEY WORDS: violent control rate crime
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  This will definitely set a bad example for the immature audiences who, lacking correct parental guidance and abilities to differentiate the right from wrong, are prone to go astray by imitating the violent behaviours and committing real violent crimes as they regard the violence as reasonable and justifiable
+
+CLAIM sentence:  Otherwise, the violent crime rate will rise continuously and out of control someday
+Matches: 4Pickaxe claims: 8Annotated claims: 4

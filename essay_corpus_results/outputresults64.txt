@@ -1,0 +1,34 @@
+Number of sentences in document: 18 
+Number of claims detected: 9 
+
+TOPIC 1 KEY WORDS: games children skills traditional
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence: 
+It is true that modern games may be, to some extent, beneficial for children to foster some skills, such as computer skills or the capacity to keep up with the latest trend
+
+CLAIM sentence:  In fact, these traditional games were elaborately devised by educators and have been proven effective in improving children's skills on different aspects in previous teaching practices
+
+TOPIC 2 KEY WORDS: games modern children especially
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence:  In such case, the relative importance of traditional games and modern games in children's developments of skills has become a frequent topic of discussion
+
+CLAIM sentence:  For me, I believe parents and educators should attach more importance to traditional games
+
+CLAIM sentence:  This is because children have to be proficient at computers and the Internet if they want to join online games, which, in fact, helps children acquire a particularly powerful skill at work in future
+
+CLAIM sentence: 
+However, I think traditional games are still indispensible in children's learning process, even much more essential than modern games, especially in modern society
+
+CLAIM sentence:  By contrast, modern games are developed by game companies for the purpose of profits
+
+TOPIC 3 KEY WORDS: children games traditional face
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence: 
+Furthermore, it is the educational functions traditional games hold that keep them alive today
+
+CLAIM sentence: 
+Thus, I would conclude that traditional games should be, by no means, ignored by parents and teachers with the advent of modern games
+Matches: 5Pickaxe claims: 9Annotated claims: 6

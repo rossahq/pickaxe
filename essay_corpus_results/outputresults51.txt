@@ -1,0 +1,29 @@
+Number of sentences in document: 12 
+Number of claims detected: 7 
+
+TOPIC 1 KEY WORDS: food health term people
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence:  Imagine the tragedies that would ensue if people lived in famine and started to eat people to survive
+
+CLAIM sentence:  Thanks to the lower expenditure in food consuming, low income people now have sufficient money to cover up costs in health and education
+
+CLAIM sentence: 
+Nonetheless, opponents of modern technology in agriculture would argue that the proliferation of GE food and factory farming are detrimental to people's health
+
+CLAIM sentence: 
+In reality, of course, the wide spread use of modern technology in agriculture may be problematic in itself; however, given the seriousness of food insufficiency through out the world, I believe this would be the ultimate goal
+
+TOPIC 2 KEY WORDS: developments agriculture beneficial technology
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence: 
+A matter of considerable controversy at present is the issue of whether developments in agriculture are beneficial to humankind, or rather these developments should be allowed to die out just as many inappropriate innovations have in the past
+
+CLAIM sentence:  Another reason for applied technology in agriculture is the low-priced foods resulted from the widely used of factory farming
+
+TOPIC 3 KEY WORDS: people world farming agriculture
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  Therefore, governments around the world have the obligation to fund in technological developments in farming in order to make an enough production of food for its people
+Matches: 2Pickaxe claims: 7Annotated claims: 4

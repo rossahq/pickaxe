@@ -1,0 +1,25 @@
+Number of sentences in document: 12 
+Number of claims detected: 5 
+
+TOPIC 1 KEY WORDS: globalization people world natural
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  In addition, they admit that globalization can be considered a chance for people of each country to promote their lifestyle through the stuffs and services imported from other countries
+
+TOPIC 2 KEY WORDS: world global effects globalization
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence: 
+Those who disagree, believe that globalization contribute effectively to the global improvement of the world in many aspects
+
+CLAIM sentence: 
+Moreover, the proponents of globalization idea point out globalization results in considerable decrease in global tension due to convergence of benefits of people of the world which is a natural consequence of globalization
+
+TOPIC 3 KEY WORDS: think change make idea
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence: 
+During the history of the world, every change has its own positive and negative sides
+
+CLAIM sentence:  I think it is more likely to solve the problems of the world rather than intensifying them
+Matches: 2Pickaxe claims: 5Annotated claims: 4

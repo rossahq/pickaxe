@@ -1,0 +1,33 @@
+Number of sentences in document: 24 
+Number of claims detected: 9 
+
+TOPIC 1 KEY WORDS: cameras cctv used privacies
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence:  Nevertheless, some argue that these cameras invade their privacies due to constantly being monitored
+
+CLAIM sentence:  Even so, I strongly believe that CCTV cameras should be installed in every premise to combat the ever increasing theft rate and to protect the workers at the workplace
+
+CLAIM sentence: 
+Firstly, by having CCTV cameras at workplace, crimes such as robbery can be trimmed down
+
+CLAIM sentence:  Those opposing the CCTV systems feel that their privacies are invaded with the constant monitoring of the cameras
+
+CLAIM sentence: 
+To conclude, CCTV cameras are essential and therefore must be installed in every premise
+
+TOPIC 2 KEY WORDS: place actions constant crime
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  They are used in schools, businesses and some other premises in order to monitor the activities taking place
+
+CLAIM sentence:  In the event of an argument, the videotapes can used to determine what actually took place and further actions can be then taken
+
+CLAIM sentence:  Ergo, opponents of this system should try to comprehend the situation and take actions to prevent themselves from being victims of crime
+
+TOPIC 3 KEY WORDS: employees help customers thieves
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence: 
+Furthermore, at some offices, employees are often required to handle angry or frustrated customers
+Matches: 2Pickaxe claims: 9Annotated claims: 5

@@ -1,0 +1,31 @@
+Number of sentences in document: 17 
+Number of claims detected: 8 
+
+TOPIC 1 KEY WORDS: day eco animal environment
+Number of CLAIMS related to this TOPIC: 0
+
+TOPIC 2 KEY WORDS: animals zoos wild various
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence: 
+Children tend to visit zoos where various kinds of wild creatures could be seen
+
+CLAIM sentence:  When it comes to whether zoos should exist on contemporary society, animal-right activists strongly recommended that wildlife belong to natural environment and zoos should be banned
+
+CLAIM sentence:  In contrast, zoo is a good alternative choice for protecting animals as various animals could be better protected by specialized staff
+
+CLAIM sentence:  It is true that some zoos are lack of systematic management which attributes to numerous wild animals die because of food shortage
+
+TOPIC 3 KEY WORDS: children wild zoos animals
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence:  I would not go along with their viewpoint as zoos have irreplaceable benefits in terms of animal preservation and children education
+
+CLAIM sentence: 
+Additionally, zoos afford a platform to education teenagers, helping to establish eco-friendly behavior towards animals
+
+CLAIM sentence:  Further, children could acquire the information regarding how to protect wild animals according to guided tour or volunteers
+
+CLAIM sentence: 
+In order to protect animals, from my perspective, zoos offer a good man-made environment which could prolong the life span of wild animals and cultivate the notion of protecting animals
+Matches: 5Pickaxe claims: 8Annotated claims: 6

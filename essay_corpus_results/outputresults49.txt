@@ -1,0 +1,33 @@
+Number of sentences in document: 14 
+Number of claims detected: 9 
+
+TOPIC 1 KEY WORDS: modern communication costs use
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence:  Therefore, it seems that these new forms of communication do bring a great deal of convenience to humankind
+
+CLAIM sentence: 
+Nevertheless, opponents of modern communications claim that only the more privileged are able to enjoy the benefits
+
+CLAIM sentence:  They further point out that the wide spread use of these efficient and effective ways of communication costs a considerable amount of money
+
+CLAIM sentence:  Anyone who aims to use these innovations have to not only pay for the appliances such as a mobile phone or a computer but also cover up costs for communication services
+
+TOPIC 2 KEY WORDS: communication modern people effective
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  Although there are valid arguments to the contrary, it is my belief that the majority of people in the globe have benefited greatly from these powerful and effective means of modern communication
+
+CLAIM sentence: 
+To begin with, mobile phones and other tools of modern communication facilitate not only contact with friends and relatives in faraway places but also global business
+
+CLAIM sentence: 
+By way of conclusion, I believe that modern communication technologies will benefit more people in the future as the pace of life increases; however, the have-nots cannot be ignored simply because they couldn't afford it
+
+TOPIC 3 KEY WORDS: communication mobile corner technologies
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  Furthermore, it is generally felt that the access to these tools of communication is available in every corner of the world
+
+CLAIM sentence:  With a mobile phone or a laptop, a person can talk or send messages online at a bus stop, in a corner shop or anywhere they could imagine
+Matches: 3Pickaxe claims: 9Annotated claims: 4

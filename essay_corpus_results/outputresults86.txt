@@ -1,0 +1,22 @@
+Number of sentences in document: 13 
+Number of claims detected: 4 
+
+TOPIC 1 KEY WORDS: universities social teaching society
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  However, others support that it is more reasonable to set down universities as a centre of culture life where knowledge is transferred and updated
+
+TOPIC 2 KEY WORDS: universities researching knowledge teaching
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence: 
+Secondly, universities playing the most important role in education system have to guarantee the knowledge conveyed is true and useful, which can be achieved through the researching function
+
+TOPIC 3 KEY WORDS: people knowledge universities training
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  Systematic and comprehensive training programs in specific fields urge people to master information required quickly and thoroughly
+
+CLAIM sentence: 
+In conclusion, it can be seen that universities produce a great many of talents with outstanding teaching and advance the progress of human society with achievements in scientific research
+Matches: 1Pickaxe claims: 4Annotated claims: 5

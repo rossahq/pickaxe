@@ -1,0 +1,30 @@
+Number of sentences in document: 18 
+Number of claims detected: 8 
+
+TOPIC 1 KEY WORDS: country people governments money
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence: 
+First and foremost, it is easy to realize that languages, especially oral language, are a quite major part of culture of a country
+
+CLAIM sentence:  It helps people distinguish between nations and even regions in a country
+
+CLAIM sentence:  Governments should spend money on keeping and preserving these things for the rich diversity of cultures which make our world more interesting
+
+CLAIM sentence:  What is more, it is a pride of the country with a rage of culture which is easy to educate people to love their country more
+
+CLAIM sentence:  Although governments invest money on doing that, it is hard to gain the good results
+
+TOPIC 2 KEY WORDS: languages day possible time
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  In addition, the preservations need a long time to gather, restore all information as well as train in the educational centre
+
+TOPIC 3 KEY WORDS: language minority people languages
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  The clearance of minority of language means that a national traditional, customs and habitants do not exist
+
+CLAIM sentence: 
+On the other hand, there are some drawbacks from saving minority languages
+Matches: 2Pickaxe claims: 8Annotated claims: 4

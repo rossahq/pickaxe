@@ -1,0 +1,30 @@
+Number of sentences in document: 14 
+Number of claims detected: 8 
+
+TOPIC 1 KEY WORDS: free work government provide
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence:  Besides, there are other pressing demands on the government expenditure, such as health care service and education, so addressing unemployment should have low priority
+
+CLAIM sentence:  If they could get free financial help from the government, they might end up with out any motivation to work at all
+
+CLAIM sentence:  They are already in reverse circumstances and it would be rather difficult for them to overcome the difficulties without external support
+
+CLAIM sentence:  In this case, the government ought to set up free vocational trainings or to provide interest-free bank loans for them, so that they can have the chance to get back to work
+
+TOPIC 2 KEY WORDS: tax contribution make society
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  However, I tend to believe it is the responsibility of these disadvantaged citizens, rather than the government, to help them out
+
+CLAIM sentence:  After all, it is benefitial to the society as a whole when the jobless can make contribution again
+
+TOPIC 3 KEY WORDS: government help people support
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence: 
+Of course, this does not mean we should leave alone those who do need assistance
+
+CLAIM sentence: 
+In conclusion, my point of view is that, although the government should provide help for the disadvantaged people, direct financial support may not be a wise option and people should rely on themselves to get out of the adversity
+Matches: 4Pickaxe claims: 8Annotated claims: 6

@@ -1,0 +1,34 @@
+Number of sentences in document: 12 
+Number of claims detected: 9 
+
+TOPIC 1 KEY WORDS: higher extra relaxing salaries
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence: 
+A raise or a promotion can no doubt increase the morale in the working places
+
+CLAIM sentence: 
+To sum up, I believe that a higher pay can be one of the incentive if were to encourage harder-working employees
+
+TOPIC 2 KEY WORDS: school high hard work
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  For instance, junior high school teachers have great responsibility not only for students' private lives as they are going through adolescence but also their school work due to the fact that it is an important phase for them to study hard and get into the high school they want
+
+TOPIC 3 KEY WORDS: working employees workers feeling
+Number of CLAIMS related to this TOPIC: 6
+
+CLAIM sentence: 
+The purpose of this essay is to discuss whether or not the only way to motivate employees to be more hard-working and productive is by raising their salaries
+
+CLAIM sentence:  Workers understand they have to work harder to meet the boss' expectations and to make themselves worthwhile
+
+CLAIM sentence: 
+Nevertheless, I believe that creating an enjoyable working environment is more realistic and essential if one wishes an increase in productivity and better employee performances
+
+CLAIM sentence:  Take Google for example, the company offers recreation rooms and extra personal leaves for their workers to develop a more relaxing and supportive workforce
+
+CLAIM sentence:  By doing this, the employers can make sure the employees can actually focus and concentrate on their projects instead of thinking about their children or feeling pressured
+
+CLAIM sentence:  Alternatively, providing a more secured and relaxing environment for workers can fundamentally boost their productivity since they will be feeling more cared for and therefore do their best for their bosses
+Matches: 4Pickaxe claims: 9Annotated claims: 4

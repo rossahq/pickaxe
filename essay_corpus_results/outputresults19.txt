@@ -1,0 +1,33 @@
+Number of sentences in document: 14 
+Number of claims detected: 9 
+
+TOPIC 1 KEY WORDS: museums activities world addition
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  Another point is that many visitors nowadays may choose to come to museums just for pleasure or as one of the activities that they take part in their holiday trips
+
+CLAIM sentence:  
+On the other hand, the establishment of a particular museum like history, science, or oceanography is usually attached to educational purposes
+
+TOPIC 2 KEY WORDS: museums people education seen
+Number of CLAIMS related to this TOPIC: 6
+
+CLAIM sentence:  Some people state that visiting museums is only a form of recreation; others disagree, arguing that museums play a role in education
+
+CLAIM sentence:  This, therefore, makes museums a place to entertain in people leisure time
+
+CLAIM sentence:  As can be seen, school and university students and teachers are always the guests of museums because the places are where they can discover and obtain a large amount of information related to their studies and teaching
+
+CLAIM sentence:  In this way, museums prove the supporting role in human education
+
+CLAIM sentence: 
+In conclusion, visiting museums is clearly seen as both means of entertainment and education
+
+CLAIM sentence:  However, from my viewpoint, people should perceive the value of museums in enhancing their own knowledge about the world they live in
+
+TOPIC 3 KEY WORDS: people music wide enjoy
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence: 
+In our world today, there is a wide variety of museums where people can travel to and see differently interesting things
+Matches: 3Pickaxe claims: 9Annotated claims: 3

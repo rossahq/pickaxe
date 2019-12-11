@@ -1,0 +1,27 @@
+Number of sentences in document: 18 
+Number of claims detected: 7 
+
+TOPIC 1 KEY WORDS: animals dogs human use
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence:  Many people encourage the use of animals for their personal needs, while others are concerned that animals should not be misused
+
+CLAIM sentence:  Many people keep pets like dogs and cats, trained them as service dogs and snuffing dogs which are very helpful to police force and even to some blind peoples
+
+CLAIM sentence: 
+From my prospective, human being should behave as a guardian to animals rather than as their lord or masters
+
+CLAIM sentence:  Animal rights are meant to set limits on human behavior and manipulation of them should be punished as a serious crime
+
+TOPIC 2 KEY WORDS: miles run animals animal
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  This essay will discuss some arguments for and against animal domestication
+
+CLAIM sentence:  Many other practices like, equestrian sport where horses run miles and miles and beaten up by jockeys to make them run more faster
+
+TOPIC 3 KEY WORDS: animals farming result scientific
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  Furthermore, thousand of animals undergo painful suffering or death as a result of scientific research of drugs and various products
+Matches: 3Pickaxe claims: 7Annotated claims: 5

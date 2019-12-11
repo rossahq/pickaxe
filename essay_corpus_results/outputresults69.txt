@@ -1,0 +1,29 @@
+Number of sentences in document: 15 
+Number of claims detected: 7 
+
+TOPIC 1 KEY WORDS: human right females like
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  This is to say, the "weaker" gender as often be thought has enough right as well as ability to contribute to the development of human beings just like any other men, not to mention they even perform better in some fields
+
+TOPIC 2 KEY WORDS: women changes wives work
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  What is more, women have the outstanding instinct to take up some careers lie healthcare or human resource management due to their patience and elaboration
+
+CLAIM sentence: 
+Admittedly, such changes do lead to some negative results like an upward trend in divorce rate or, under many circumstances, women find it difficult to balance their work and their traditional role as the wives
+
+TOPIC 3 KEY WORDS: society work enjoy care
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence:  This, contrary to some ideas, is a positive progress in human society from my point of view
+
+CLAIM sentence:  Gone are the days when women could do nothing rather than stick to boring house work and take care of children
+
+CLAIM sentence: 
+In the second place, the revolution in females' right has brought about many benefits not only to themselves but society as well
+
+CLAIM sentence: 
+All things considered, in a society where females are given equal opportunities compared with males would obviously enjoy lots of benefits far outweighing its obstacles
+Matches: 4Pickaxe claims: 7Annotated claims: 6

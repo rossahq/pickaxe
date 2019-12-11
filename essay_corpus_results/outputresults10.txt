@@ -1,0 +1,45 @@
+Number of sentences in document: 33 
+Number of claims detected: 16 
+
+TOPIC 1 KEY WORDS: rights america allowing marry
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence:  Same sex marriage should be legal for a number of reasons, a few being, it's no one else's business if two men or two women want to get married, not allowing them to marry makes them seem inferior, and it rids them of their civil rights
+
+CLAIM sentence:  In the book Historical Guides to Controversial Issues in America Same-Sex Marriage by Allene Phy-Olsen it states "Recent decades have seen much interest in the idea of diversity
+
+CLAIM sentence:  In the book The Constitution of the United States of America The Bicentennial keepsake edition, the first amendment provides that "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof 
+
+CLAIM sentence:  They should be allowed the benefits of marriage, treated equally, not like they are inferior, and same sex couples should be allowed their civil rights
+
+TOPIC 2 KEY WORDS: benefits like married people
+Number of CLAIMS related to this TOPIC: 6
+
+CLAIM sentence:  Same sex couples just want the benefits of being married like everyone else and there is no proof saying that it is wrong for them to have those benefits
+
+CLAIM sentence:  A common married couple gets benefits on health, gets to make decisions that are best for their spouse in extreme cases, and gets to inherit their spouse's belongings in death
+
+CLAIM sentence:  Nobody likes feeling inferior, or like they a below standards, by making sex marriage illegal you are making people who are attracted to the same sex feel and seem inferior to others
+
+CLAIM sentence:  The argument for same sex marriage asserts that it is hypocritical to deny the full rights and opportunities of citizenship which includes the access to an institution as basic as matrimony" () You would never make a women feel inferior for being a women, so why should you make a man or a women feel like they are less just based on who they love
+
+CLAIM sentence:  Many people think that the word of the bible is comparable to law; however we have an amendment which protects our country from that exact situation
+
+CLAIM sentence:  Not allowing same sex couples to marry is like saying all people born with a certain hair color should not be allowed marry people of other hair colors, It makes no sense
+
+TOPIC 3 KEY WORDS: sex marriage couples inferior
+Number of CLAIMS related to this TOPIC: 6
+
+CLAIM sentence:  There is absolutely no legal, logical, or governing reason that same sex couples cannot be wed and it's extremely unconstitutional in every way to tell them they can't
+
+CLAIM sentence:  Just like it is no one's business to tell same sex couples they should not be able wed
+
+CLAIM sentence:  
+Making same sex marriage illegal also makes the people who are attracted to the same sex feel inferior
+
+CLAIM sentence:  So it's unfair to make same sex marriage seem inferior when it is no different
+
+CLAIM sentence:  Majority of the population against same sex marriage firmly believe the bible states that it is unholy for couples of the same gender to marry
+
+CLAIM sentence: " () The fact that it's in the bible should not dictate the laws against same sex couples becoming wed
+Matches: 5Pickaxe claims: 16Annotated claims: 9

@@ -1,0 +1,31 @@
+Number of sentences in document: 19 
+Number of claims detected: 8 
+
+TOPIC 1 KEY WORDS: technology people rich products
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  However, today some people consider that the range of technology regarding of public has a negative effect on increasing the gap between rich and poor
+
+CLAIM sentence:  Thus, most members of our society can benefit from the consequences of technical advancements, especially the poor people
+
+TOPIC 2 KEY WORDS: time information individuals far
+Number of CLAIMS related to this TOPIC: 6
+
+CLAIM sentence: 
+Technology, in the past two hundred years, has taken a dramatic progress in many fields of our society, such as telecommunications, manufacturing and buildings, etc
+
+CLAIM sentence: 
+In the first instance, the progress of material technology leads to the sharp fall of price of a great number of products
+
+CLAIM sentence:  About ten years ago, mobile phones ware very expensive for most members of my country, only a few of rich individuals have enough money to buy one
+
+CLAIM sentence: 
+Secondly, technical developments improve productivity, which help people to escape from daily chores, and invest more time and energy in studying and living a more meaningful life
+
+CLAIM sentence:  In the past time, we had to spend a lot of time searching information and waiting for letters of our friends who lived far away from us
+
+CLAIM sentence:  In addition, the Internet gives everyone access to the same information, this therefore leads to greater equality between individuals
+
+TOPIC 3 KEY WORDS: technology daily technologies technical
+Number of CLAIMS related to this TOPIC: 0
+Matches: 3Pickaxe claims: 8Annotated claims: 9

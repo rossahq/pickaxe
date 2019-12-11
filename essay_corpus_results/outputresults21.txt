@@ -1,0 +1,26 @@
+Number of sentences in document: 21 
+Number of claims detected: 6 
+
+TOPIC 1 KEY WORDS: product consumers way purchase
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence:  The product also should satisfy the needs of the consumers
+
+CLAIM sentence:  When the consumers are impressed by the way a product is advertised, they can be convinced to consider that the product is a need in some cases
+
+CLAIM sentence:  
+Also, the more an advertisement of a product takes place in mass media, the more popular the product becomes
+
+CLAIM sentence:  When a product is commonly used, it becomes trustworthy for the society, no matter what quality it is
+
+CLAIM sentence:  
+In conclusion, as I believe that consumers should consider major needs when they purchase goods, high sales are obviously a reflection of the powerful advertisements
+
+TOPIC 2 KEY WORDS: drink consumers advertisements products
+Number of CLAIMS related to this TOPIC: 0
+
+TOPIC 3 KEY WORDS: product society advertisements advertising
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  In my opinion, advertising is the major reason for high sales of a product for several reasons
+Matches: 2Pickaxe claims: 6Annotated claims: 4

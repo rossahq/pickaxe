@@ -21,14 +21,7 @@ class MiningTools:
         # source for argumentative words & phrases list is:
         # https://www.academia.edu/3296265/Using_linguistic_phenomena_to_motivate_a_set_of_coherence_relations
         # move to json
-        argumentative_words = ['above all', 'accordingly', 'actually', 'admittedly', 'after', 'after all', 'after that',
-                               'afterwards', 'again',
-                               'all in all', 'all the same', 'also', 'alternatively', 'although',
-                               'always assuming that', 'anyway', 'as', 'as a consequence', 'as a corollary',
-                               'as a result', 'as long as', 'as soon as', 'as well', 'at any rate', 'at first',
-                               'at first blush', 'at first sight', 'at first view',
-                               'at the moment when', 'at the outset', 'at the same time', 'because', 'before', 'but',
-                               'by comparison', 'by contrast',
+        argumentative_words = [
                                'by the same token', 'by the way', 'certainly', 'clearly', 'consequently', 'conversely',
                                'correspondingly', 'despite that',
                                'despite the fact that', 'earlier', 'either', 'else', 'equally', 'essentially then',
@@ -79,7 +72,7 @@ class MiningTools:
     def claim_verb_match(self, sentences):
         verbs = ['required', 'identified', 'argued', 'needed', 'stated', 'failed', 'agreed', 'judged', 'suggested',
                  'felt', 'considered', 'should', "consider", "discussed", "reported", "believe", "believed", "thought",
-                 "explained", "ensure"]
+                 "explained", "ensure", "demonstrates", "support", 'believe', 'conclude']
 
         matches = []
         for sentence in sentences:
@@ -143,52 +136,6 @@ class MiningTools:
 
                 x = x + 1
         return topic_claim_relations
-
-    # def get_syns(self, word):
-    #     synonyms = []
-    #     antonyms = []
-    #     for syn in wordnet.synsets(word):
-    #         for l in syn.lemmas():
-    #             synonyms.append(l.name())
-    #             if l.antonyms():
-    #                 antonyms.append(l.antonyms()[0].name)
-    #
-    #     syns = []
-    #
-    #     for syn in wordnet.synsets(word):
-    #         for lemma in syn.lemmas():
-    #             syns.append(lemma.name())
-    #
-    # def calculate_cosine_similarity(self, topic_models, arguments, *args, **kwargs):
-    #
-    #     topic_arg_relations = {}
-    #     for topic in topic_models:
-    #         topic_arg_relations[topic] = []
-    #
-    #     for arg in arguments:
-    #         best_cosine_result = 0
-    #         x = 0
-    #         while x <= len(topic_models) - 1:
-    #             documents = [topic_models[x],arg]
-    #
-    #             count_vectoriser = CountVectorizer(stop_words='english')
-    #             sparse_matrix = count_vectoriser.fit_transform(documents)
-    #
-    #             cosine_result = cosine_similarity(sparse_matrix, sparse_matrix)
-    #
-    #             # get the single cosine value
-    #             cosine_result = cosine_result[0][1]
-    #
-    #             if cosine_result > best_cosine_result:
-    #                 best_cosine_result = cosine_result
-    #                 matched_topic = topic_models[x]
-    #
-    #             if x == len(topic_models) - 1:
-    #                 topic_arg_relations[matched_topic] = arg
-    #
-    #             x = x + 1
-    #
-    #     return topic_arg_relations
 
 
 if __name__ == '__main__':

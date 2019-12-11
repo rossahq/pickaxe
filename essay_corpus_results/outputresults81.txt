@@ -1,0 +1,34 @@
+Number of sentences in document: 21 
+Number of claims detected: 10 
+
+TOPIC 1 KEY WORDS: artists countries paintings restricted
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  For example, paintings by Da Vinci and Michallengo are admired even till now as they were not restricted during those times
+
+CLAIM sentence:  Today, many countries make numerous efforts to show that they are democratic countries
+
+CLAIM sentence: 
+Looking from another perspective, there are certain drawbacks if artists are not restricted
+
+TOPIC 2 KEY WORDS: artists express freely long
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  It is undeniable that when they are given the opportunity to express themselves, most artists will think out of the box and come up with spectacular Arts such as paintings or movies
+
+CLAIM sentence:  Thus, human rights is violated if artists are not allowed to express their feelings freely
+
+TOPIC 3 KEY WORDS: believe freedom express ideas
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence: 
+Artists in most countries are given the freedom to express their thoughts in whatever they do
+
+CLAIM sentence:  I however, agree to this only to a certain extent and believe that the artists must be given freedom so that they will produce some really marvelous masterpiece
+
+CLAIM sentence:  Nonetheless, I believe that artists know their boundaries very well and would surely do not want their names tarnished just because of their unscrupulous acts
+
+CLAIM sentence:  Allowing them to think freely will give them an opportunity to express themselves as ideas can naturally flow when there are no limitations
+
+CLAIM sentence:  Hence, even though freedom to express ideas can bring some negative effects, I certainly believe that there are many wonderful and beautiful Arts due to the freedom to express ideas and thus, I strongly believe there should be no restrictions on them
+Matches: 4Pickaxe claims: 10Annotated claims: 6

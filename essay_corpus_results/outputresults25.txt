@@ -1,0 +1,32 @@
+Number of sentences in document: 17 
+Number of claims detected: 9 
+
+TOPIC 1 KEY WORDS: society building factory development
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence: 
+Nowadays, whether to establish large factories nearby housing areas has become a controversial issue in our society
+
+CLAIM sentence:  Therefore, how to improve the disadvantages of building a factory would be more important than whether to build it
+
+TOPIC 2 KEY WORDS: problems suffering caused large
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  It is truth that some area are suffering the dire consequences caused by overdeveloping the industry, such as water pollution, overcrowded traffic and medical problems
+
+CLAIM sentence:  For instance, in some industrial cities , a large proportion of the workers are suffering various breathing problems, such as asthma which can be caused by waste ashes and certain chemical substances
+
+TOPIC 3 KEY WORDS: factories factory local disadvantages
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence:  From my point of view, the advantages of building a factory will outweigh its disadvantages, if we tackle the environmental problems brought by factories
+
+CLAIM sentence:  To manufacture goods, there must be the demand of laborers, from which the local residents can benefit
+
+CLAIM sentence:  What is more, the factory is not isolated, other industries and business will be quickly established, resulting in economic growth of local area
+
+CLAIM sentence: 
+In conclusion, installation of manufacturing plant is a trend of industrialization for many countries
+
+CLAIM sentence:  Its advantages will outweigh disadvantages as long as the factories dispose their waste and pollution in the correct way
+Matches: 3Pickaxe claims: 9Annotated claims: 5

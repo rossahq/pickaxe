@@ -1,0 +1,27 @@
+Number of sentences in document: 15 
+Number of claims detected: 7 
+
+TOPIC 1 KEY WORDS: economic fact purpose role
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  In fact, they are not in the purpose of making profits but taking a role of disseminating valued culture, good moral traits and calling for helps for the disabled and the poor
+
+CLAIM sentence:  In a larger sense, it could simulate household spending and therefore promote the economic development of the whole country
+
+TOPIC 2 KEY WORDS: advertisements information companies product
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  Of course, the advertising expenses lead to a higher product price and some of them express fake information, creating information asymmetry between consumers and companies
+
+TOPIC 3 KEY WORDS: advertising public exaggerated economic
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence: 
+Never in history was advertising industry so developed as in modern society and it has led to some adverse sentiments in public because some deliver exaggerated and fake information
+
+CLAIM sentence:  Hence whether we should ban all the advertisements or not has aroused much controversy of the public
+
+CLAIM sentence:  A recent study shows that after launching an advertising campaign, the sales revenue would increase by %, which is the very fact to verify its positive influences on economic
+
+CLAIM sentence:  However, if those with exaggerated and fake information could be banned, advertisements would be welcomed by more
+Matches: 2Pickaxe claims: 7Annotated claims: 6

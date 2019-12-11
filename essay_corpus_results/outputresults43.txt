@@ -1,0 +1,38 @@
+Number of sentences in document: 16 
+Number of claims detected: 11 
+
+TOPIC 1 KEY WORDS: people sports international proud
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence:  It is agreed that large scale sports games make people focus on attractive contests instead of international disputes, and help them being proud of their nation
+
+CLAIM sentence: 
+Firstly, during times of war, people living in badly affected countries can forget about the gloomy environment and maintain a link with the rest of the world by listening to international sports event
+
+CLAIM sentence:  This clearly shows that international sports competitions encourage people and put pressure on them to come back, sooner or later, to a relative peaceful normality
+
+CLAIM sentence: 
+Secondly, these sporting occasions are a good opportunity for people to be proud of their country
+
+CLAIM sentence:  As a result, it is clear that people can freely express their patriotic feelings during international sports events
+
+TOPIC 2 KEY WORDS: national world countries peaceful
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  Thus, world sports events strongly participate in eventually pulling back people towards friendship and peace
+
+CLAIM sentence:  For instance, when the Football World Cup was organised in South Africa, its citizens filled up the stadiums, cheered and waved national flags to support their national team on the field
+
+CLAIM sentence: 
+In conclusion, after analysing the effects of world games both for countries at war and for organising countries, it is clear that they not only constitute a tremendous appeal towards a peaceful society, but also guide the public demonstrations of national proudness
+
+TOPIC 3 KEY WORDS: people events example display
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence: 
+For most folks on Earth, the need to gather in one place, and enjoy competition with other talented people from different cultures through popular games has always been a strong motivation
+
+CLAIM sentence:  This will be proved by analysing how sports events may be an important link to the peace, and by how they encourage people to display their national symbols
+
+CLAIM sentence:  This example demonstrates how people might take numerous elements from their roots and history to proudly display them while supporting their team
+Matches: 4Pickaxe claims: 11Annotated claims: 5

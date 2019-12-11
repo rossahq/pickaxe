@@ -1,0 +1,28 @@
+Number of sentences in document: 20 
+Number of claims detected: 7 
+
+TOPIC 1 KEY WORDS: country english language native
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence: 
+In the present age, it is a matter of fact that increasing minority languages have diminished from the world due to the proliferation of English
+
+CLAIM sentence:  For them, language obstacle is no longer a problem, which results in mutual understanding and trust between their mother land and the host country
+
+CLAIM sentence:  Furthermore, researchers, especially those who work on high-tech, would have wider range of references if they are good at English
+
+CLAIM sentence:  Taking IT industry for an example, top technical science is published in English
+
+CLAIM sentence: 
+In conclusion, in spite of some negative effects, I'm totally convinced that the prevalent usage of English brings benefits to people and countries all around
+
+TOPIC 2 KEY WORDS: english languages people globalization
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  Some people claim it's a reasonable loss in globalization while others argue the demerits exceed the merits
+
+CLAIM sentence:  But at the same time, actions, like recording, can be taken to protect native languages and cultures
+
+TOPIC 3 KEY WORDS: english researchers furthermore references
+Number of CLAIMS related to this TOPIC: 0
+Matches: 2Pickaxe claims: 7Annotated claims: 5

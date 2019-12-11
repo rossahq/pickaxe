@@ -1,0 +1,37 @@
+Number of sentences in document: 27 
+Number of claims detected: 11 
+
+TOPIC 1 KEY WORDS: students high school break
+Number of CLAIMS related to this TOPIC: 7
+
+CLAIM sentence: Some countries permit students to take a break from studies between high school and university studies, while in some countries, it is considered as waste of time
+
+CLAIM sentence:  However, a break of one year is good for young people after finishing their high school
+
+CLAIM sentence:  Personally, a break will give students some time to refresh their systems, by travelling or following their hobbies
+
+CLAIM sentence: 
+Nevertheless, during high school, many students face a dilemma to decide which stream should they major in
+
+CLAIM sentence:  When students work during these breaks, the feel of money gives them an illusion that such salary is enough for them and they go in a utopia
+
+CLAIM sentence:  For instance, my cousin started working in a customer care centre after high school and got distracted
+
+CLAIM sentence:  A break gives students more benefits than harms
+
+TOPIC 2 KEY WORDS: break university individual utilise
+Number of CLAIMS related to this TOPIC: 0
+
+TOPIC 3 KEY WORDS: studies university students break
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence: 
+Studies are an essential part of life
+
+CLAIM sentence:  Importantly, when students start their university studies after a break, they will feel fresh and full of energy to take the new challenge
+
+CLAIM sentence:  Financially,students can save a little money to support their university education by doing a job
+
+CLAIM sentence: 
+Importantly, the sole purpose of education is to nurture a young mind and not thrust studies on them
+Matches: 3Pickaxe claims: 11Annotated claims: 11

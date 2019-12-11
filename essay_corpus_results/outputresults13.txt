@@ -1,0 +1,28 @@
+Number of sentences in document: 13 
+Number of claims detected: 7 
+
+TOPIC 1 KEY WORDS: technology jobs computer reservation
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  
+One example of a job that got replaced by the availability of technology or computer to the public is the reservation and ticketing officers of travel agencies and airlines
+
+TOPIC 2 KEY WORDS: just make ticket human
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence:  On the other hand, there are still jobs which require the expertise of a human employee especially when it entails decision-making situations
+
+CLAIM sentence:  You can now see the availability of your intended travel dates online, make the reservation, know the price of the ticket you want to purchase and pay conveniently with your credit card and you're all done
+
+CLAIM sentence:  They may have several reasons to it but then maybe they are just comfortable dealing with a human being than a computer
+
+CLAIM sentence:  We still need the personal touch of a human in each and everything that technology or computer could offer us
+
+TOPIC 3 KEY WORDS: computer technology computers replace
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  It's true that technology and computers do make their jobs easier but it cannot definitely replace them
+
+CLAIM sentence: 
+With this, i still believe that technology and computers cannot eventually replace the workforce and drive employees to be jobless
+Matches: 3Pickaxe claims: 7Annotated claims: 4

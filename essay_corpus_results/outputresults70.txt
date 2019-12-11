@@ -1,0 +1,27 @@
+Number of sentences in document: 15 
+Number of claims detected: 7 
+
+TOPIC 1 KEY WORDS: reducing traffic transportation improving
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  In addition, the improvements of work efficiency also attribute to the speed-up of working pace, resulting in traffic jams during rush-hours
+
+CLAIM sentence:  Primarily, authorities should spare no efforts in improving public transportation facilities, such as constructing more bus lines, in order to reducing the usage of private cars
+
+TOPIC 2 KEY WORDS: pollution environmental work institution
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence: 
+Specifically, price control institution has been used in plenty of social areas, for example, in the farming products and in the real estate area; however, whether it can work out for alleviating traffic and pollution pressure ought to be evaluated
+
+CLAIM sentence:  Meanwhile, cultivating a sense of environmental protection would also work out, though it might not be into effect immediately, but in the long run, it would be a wise choice
+
+TOPIC 3 KEY WORDS: problems price pollution issues
+Number of CLAIMS related to this TOPIC: 3
+
+CLAIM sentence:  Initiatives should be taken to address the specific problems
+
+CLAIM sentence:  As the impacts for those pollution and traffic issues are extremely far-reaching, it is insufficient to increase the petrol price only to solve problems, though it is a promising method discussed in the contemporary society
+
+CLAIM sentence:  Plus with supervisory institutions built to find and address problems
+Matches: 1Pickaxe claims: 7Annotated claims: 4

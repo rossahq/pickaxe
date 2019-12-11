@@ -1,0 +1,44 @@
+Number of sentences in document: 19 
+Number of claims detected: 14 
+
+TOPIC 1 KEY WORDS: poor countries people effects
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence:  In actual, republic of Korea used to be the poorest country even compared to others in Africa in 's
+
+CLAIM sentence: 
+Secondly, aiding campaign gives a chance to considerate about poor people
+
+CLAIM sentence:  If people in rich countries ponder poor people suffering from poverty and diseases, they would never take their abundance for granted
+
+CLAIM sentence:  I strongly believe that being a global neighbor by aiding poor countries would be continues by many organizations and volunteers, and it will make the earth a better place to live
+
+TOPIC 2 KEY WORDS: countries poor aiding aid
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence:  That is why governmental and non-governmental organizations have been focus on being harmony and contribute to aid to poor countries
+
+CLAIM sentence:  It is true that just giving aid to impoverished countries could be manipulated by big power countries
+
+CLAIM sentence: 
+However, I agree that aiding poor countries has positive effects, overweighing its side-effects for the several reasons
+
+CLAIM sentence:  Aiding help poor countries in this situation solve their economical problems and run their own business
+
+CLAIM sentence:  Now that it has became strong economy country aiding poor countries after  years of aid from other counties
+
+TOPIC 3 KEY WORDS: countries world economies big
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence: 
+In this world, there is no one who does not know this world 'globalization', which means the world are more closer, and every single countries affects each other more than before in many ways
+
+CLAIM sentence:  In addition, a great amount of materials and money have poor countries being corrupted and politically dependent on other countries
+
+CLAIM sentence:  In globalized world, the economies of several countries are in a big network and must influence on each others
+
+CLAIM sentence:  When America mortgage loan system went bad, several economies of European and Asian countries fluctuated, even any countries had to be gotten international supports to block its bankrupt
+
+CLAIM sentence: 
+In conclusion, there are abovementioned three key points of positive effects of aid; supporting poor countries to make its economy strong and building humane concepts to people, keeping strong global economy
+Matches: 5Pickaxe claims: 14Annotated claims: 7

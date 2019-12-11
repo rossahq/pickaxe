@@ -1,0 +1,26 @@
+Number of sentences in document: 19 
+Number of claims detected: 6 
+
+TOPIC 1 KEY WORDS: students time working job
+Number of CLAIMS related to this TOPIC: 6
+
+CLAIM sentence: 
+In present day and age, students are normally exposed to extra jobs as early as they start their university
+
+CLAIM sentence:  As a result, students who get part time jobs have not only academic knowledge but also hands-on experience
+
+CLAIM sentence:  Moreover, having experienced in working environment during student time offers a distinct advantage when they apply for jobs after their graduation
+
+CLAIM sentence: 
+Secondly, students who take on a part time job are often more confident and independent than other ones
+
+CLAIM sentence:  Also, working conditions require students the independency in thinking, working, and solving problems, which is greatly helpful when the characteristic is applied to tackle subjects in their universities
+
+CLAIM sentence:  By taking on an extra job, students can partly alleviate some their problematic matters such as working experience, confidence and accommodation
+
+TOPIC 2 KEY WORDS: jobs extra money getting
+Number of CLAIMS related to this TOPIC: 0
+
+TOPIC 3 KEY WORDS: students environment independent confidence
+Number of CLAIMS related to this TOPIC: 0
+Matches: 2Pickaxe claims: 6Annotated claims: 7

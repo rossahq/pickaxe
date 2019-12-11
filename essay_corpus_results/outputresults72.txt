@@ -1,0 +1,29 @@
+Number of sentences in document: 22 
+Number of claims detected: 8 
+
+TOPIC 1 KEY WORDS: addicts drug addiction sending
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence:  It is undeniable that drug addiction is indeed on the rise and effective solutions must be taken in order to trim down the number of drug addicts
+
+TOPIC 2 KEY WORDS: drugs addicts misuse chance
+Number of CLAIMS related to this TOPIC: 5
+
+CLAIM sentence:  Some suggest that it would be better if those caught red-handed using drugs be imprisoned
+
+CLAIM sentence:  Nevertheless, once they return to the society, they tend to relapse and get involved in drugs again
+
+CLAIM sentence: 
+On the other hand, some argue that if the drug addicts are not given intense punishment, they will not change and continue to misuse drugs
+
+CLAIM sentence:  They can also report to the concerned parties about any misuse of drugs at the residential areas
+
+CLAIM sentence:  To put it in a nutshell, I believe that sending the drug addicts to rehabilitation centres acts as a beacon of hope for the affected individuals and is also a crucial step in helping them redeem their lives and rejuvenate their lost hopes for a better future rather than sending them to prison
+
+TOPIC 3 KEY WORDS: society drugs learn people
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  Nonetheless, I believe that this is mainly due to the society not accepting the prisoners as a part of them
+
+CLAIM sentence:  Referring to the consequentalist theory, the society should allow leniency for people to experiment and learn, as long as it is on their own expenses
+Matches: 2Pickaxe claims: 8Annotated claims: 5

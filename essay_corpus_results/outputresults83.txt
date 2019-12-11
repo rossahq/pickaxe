@@ -1,0 +1,30 @@
+Number of sentences in document: 15 
+Number of claims detected: 7 
+
+TOPIC 1 KEY WORDS: disadvantages power nuclear material
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  For example recently there has been an incident in which an atomic power house leaked tons of radio active material into air when an earthquake hit the surrounding area
+
+CLAIM sentence: 
+To sum it up, from above mentioned facts it can easily be deduced that nuclear power may apear silver bullet for energy crisis but its disadvantages far outweigh the adavantages
+
+TOPIC 2 KEY WORDS: waste usages opinion civil
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence: 
+Another reason to fortify my opinion is that even civil usages of atomic power pose a dire threat of radio activity
+
+TOPIC 3 KEY WORDS: nuclear power technology energy
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence: 
+The topic of nuclear technology frequently generates a heated debate with proponenets maintaining that nuclear power provides a source of efficient and economical energy while opponents argue that atomic technology is uncontrollable and very dangerous to handle
+
+CLAIM sentence:  As far as my opinion is concerned , I find myself aligned with opponenets of the usages of nuclear power
+
+CLAIM sentence: 
+First and foremost reason is that pursuit of nuclear technology one way or the other leads towards atomic weapons
+
+CLAIM sentence:  Thus i suggest that use of nuclear technology should be discouraged even for civil purposes
+Matches: 4Pickaxe claims: 7Annotated claims: 6

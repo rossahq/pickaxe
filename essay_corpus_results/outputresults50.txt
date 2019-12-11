@@ -1,0 +1,27 @@
+Number of sentences in document: 20 
+Number of claims detected: 7 
+
+TOPIC 1 KEY WORDS: music subject optional developed
+Number of CLAIMS related to this TOPIC: 2
+
+CLAIM sentence:  Moreover, if musical activity involves many participants, there will be co-operation and developed team work in the group, which is, of course, beneficial in their future life
+
+CLAIM sentence:  Therefore, music and other entertaining subjects should be optional
+
+TOPIC 2 KEY WORDS: learning worker field advanced
+Number of CLAIMS related to this TOPIC: 1
+
+CLAIM sentence: 
+In conclusion, I think that in order to be a competitive worker, students must know their field in an advanced level
+
+TOPIC 3 KEY WORDS: students music time subjects
+Number of CLAIMS related to this TOPIC: 4
+
+CLAIM sentence:  Therefore, many university authorities provide music lessons for their students so that they live and study in a harmony with music
+
+CLAIM sentence:  I have an impression that students, who spend a great deal of their time studying different academic subjects should have an opportunity to cope with the stress gained during school time
+
+CLAIM sentence:  In fact, students with a quite poor academic background can show themselves in the music
+
+CLAIM sentence:  An integration of music into learning process bound to be successful when it is not compulsory
+Matches: 3Pickaxe claims: 7Annotated claims: 4
